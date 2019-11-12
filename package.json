@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha test/unit/*.spec.js",
     "start": "node index.js",
-    "coverage": "nyc --all npm test"
+    "coverage": "nyc --all --reporter=lcov --reporter=html --reporter=text npm test"
   },
   "author": "",
   "license": "ISC",
