@@ -1,0 +1,286 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJfT257GNcXz4Rw8gRhpMEZjQ",
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJaQ4mkwZdXz4R6e5IegDUleY",
+            "types": [
+                "airport",
+                "establishment",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 25.2913945,
+                    "lng": 55.3631571
+                },
+                "southwest": {
+                    "lat": 25.2476573,
+                    "lng": 55.33648179999999
+                }
+            },
+            "copyrights": "Map data ©2019",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "9.1 km",
+                        "value": 9119
+                    },
+                    "duration": {
+                        "text": "9 mins",
+                        "value": 561
+                    },
+                    "end_address": "Dubai International Airport (DXB) - Dubai - United Arab Emirates",
+                    "end_location": {
+                        "lat": 25.2476573,
+                        "lng": 55.3521753
+                    },
+                    "start_address": "Dubai - United Arab Emirates",
+                    "start_location": {
+                        "lat": 25.2885216,
+                        "lng": 55.3631571
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "27 m",
+                                "value": 27
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 5
+                            },
+                            "end_location": {
+                                "lat": 25.288287,
+                                "lng": 55.3630954
+                            },
+                            "html_instructions": "Head <b>south</b>",
+                            "polyline": {
+                                "points": "gdjyCwb|pI\\FNB"
+                            },
+                            "start_location": {
+                                "lat": 25.2885216,
+                                "lng": 55.3631571
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 km",
+                                "value": 222
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 39
+                            },
+                            "end_location": {
+                                "lat": 25.2873734,
+                                "lng": 55.3613207
+                            },
+                            "html_instructions": "At the roundabout, take the <b>1st</b> exit",
+                            "maneuver": "roundabout-right",
+                            "polyline": {
+                                "points": "ybjyCkb|pI?@?@?@?@A??@?@@@?@?@?@@@?@?@@??@@??@@??@@?@@@??@@?Ox@?D?F@D@DDFHLf@x@BHh@`AHNHL@?HLPLZT"
+                            },
+                            "start_location": {
+                                "lat": 25.288287,
+                                "lng": 55.3630954
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.9 km",
+                                "value": 875
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 98
+                            },
+                            "end_location": {
+                                "lat": 25.2846512,
+                                "lng": 55.3588911
+                            },
+                            "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>28th St</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "roundabout-right",
+                            "polyline": {
+                                "points": "a}iyCgw{pI?@?@?@?@?@@@?@@@?@@@@@@@HB@?@@@??A@?@?@?@??A@?@??A@??A@??A@??A@A?A@A?A?A@AxAPzAN|BXF@z@Nl@Lj@Lf@NPFn@Pl@Rd@RvAj@z@b@B@v@^LJDDBDBF@DBLANELCHIPKPINi@bAEFGJEHEFGDGBIBKB}@_@i@SMEGAe@ISEeAM"
+                            },
+                            "start_location": {
+                                "lat": 25.2873734,
+                                "lng": 55.3613207
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.6 km",
+                                "value": 644
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 28
+                            },
+                            "end_location": {
+                                "lat": 25.2903178,
+                                "lng": 55.3601497
+                            },
+                            "html_instructions": "Merge onto <b>Al Ittihad Rd</b>/<wbr/><b>Dubai - Sharjah Rd</b>/<wbr/><b>E11</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "merge",
+                            "polyline": {
+                                "points": "aliyCah{pIeCu@i@Oy@OsBWsD]oAO_Ea@gBQeAM}@IMAWC]G[E"
+                            },
+                            "start_location": {
+                                "lat": 25.2846512,
+                                "lng": 55.3588911
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 469
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 35
+                            },
+                            "end_location": {
+                                "lat": 25.2901845,
+                                "lng": 55.3594027
+                            },
+                            "html_instructions": "Take exit <b>67</b> to merge onto <b>Baghdad Street</b>/<wbr/><b>D95</b> toward <b>Al Mamzar</b>",
+                            "maneuver": "ramp-right",
+                            "polyline": {
+                                "points": "oojyC}o{pIYQi@SIEICECGEEEGGEGEICGCICM?OAK?E?A?G@I?K@IDIDOBEJMHIHEHGHCJCNCH?L@L@JBFBHFHFJLFJBFBFBNBJ?LCn@@n@OnAIv@AHEXCVCX"
+                            },
+                            "start_location": {
+                                "lat": 25.2903178,
+                                "lng": 55.3601497
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "3.6 km",
+                                "value": 3561
+                            },
+                            "duration": {
+                                "text": "3 mins",
+                                "value": 179
+                            },
+                            "end_location": {
+                                "lat": 25.2680719,
+                                "lng": 55.341311
+                            },
+                            "html_instructions": "Merge onto <b>Al Ittihad Rd</b>/<wbr/><b>Dubai - Sharjah Rd</b>/<wbr/><b>E11</b> via the ramp to <b>Jebel Ali</b>/<wbr/><b>DXB Airport</b>/<wbr/><b>Abu Dhabi</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "ramp-right",
+                            "polyline": {
+                                "points": "snjyCgk{pIILCDAFETE^CJGLELIHEFGFKHGBKDIBK@I?I?GAIAIAIEIGMKECEGCCEGCGAGAEAEAIAI?E?G?CAC@M@G@KBIBIFKFILOHGJENEFCF?N?N@V@L@Z?`AN`@D|@Fj@Dl@FlBRr@Hf@BnCPvAFV?\\Cb@FjC`@hCh@xAd@jBr@hAb@lAp@~@h@t@f@j@d@l@h@bBfBbBfB~@fA`AfAjBzB~@dAPR\\`@~@`AfBpBtBbCVXbAhAn@t@~CpDfCvCNPnAvAz@|@x@|@v@|@|BnCVZp@x@rAdB|ApBnBxBpCbDdDfDpCbDt@v@pDhEfCrC"
+                            },
+                            "start_location": {
+                                "lat": 25.2901845,
+                                "lng": 55.3594027
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.0 km",
+                                "value": 951
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 48
+                            },
+                            "end_location": {
+                                "lat": 25.2613083,
+                                "lng": 55.3366492
+                            },
+                            "html_instructions": "Take exit <b><span dir=\"rtl\">61</span>‎</b> for <b>D89</b> toward <b>DXB Airport Terminal 1</b>/<wbr/><b>DXB Airport Terminal 3</b>/<wbr/><b>Al Garhoud</b>/<wbr/><b>Al Khawaneej</b>",
+                            "maneuver": "ramp-right",
+                            "polyline": {
+                                "points": "mdfyCezwpIRd@R`@x@jAx@`A|BrCRVzBtC`BpBfBpBxApAz@b@RJ\\NVJd@LPFHBF@b@FB@N@^@^@n@AX@TAL?HAJA`AAjBY"
+                            },
+                            "start_location": {
+                                "lat": 25.2680719,
+                                "lng": 55.341311
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 km",
+                                "value": 156
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 8
+                            },
+                            "end_location": {
+                                "lat": 25.2599366,
+                                "lng": 55.3369855
+                            },
+                            "html_instructions": "Keep <b>left</b> to continue toward <b>Airport Rd</b>/<wbr/><b>D89</b>",
+                            "maneuver": "keep-left",
+                            "polyline": {
+                                "points": "ezdyCa}vpIdAQb@IFAnAQnAS"
+                            },
+                            "start_location": {
+                                "lat": 25.2613083,
+                                "lng": 55.3366492
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "2.2 km",
+                                "value": 2214
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 121
+                            },
+                            "end_location": {
+                                "lat": 25.2476573,
+                                "lng": 55.3521753
+                            },
+                            "html_instructions": "Keep <b>right</b> to continue on <b>Exit 61</b>, follow signs for <b>DXB Airport Terminal 1</b>/<wbr/><b>DXB Airport Terminal 3</b>/<wbr/><b>Al Garhoud</b>/<wbr/><b>Al Khawaneej</b>/<wbr/><b>D89</b> and merge onto <b>Airport Rd</b>/<wbr/><b>D89</b>",
+                            "maneuver": "keep-right",
+                            "polyline": {
+                                "points": "sqdyCe_wpIfAIb@EtAMd@GZCn@A|@@R@b@@H@|@F@?bAL^F`@DRBR?f@GNELGNGNM@ARUBC@CHOFMb@{@DI^y@b@cAZs@h@kAh@kAJSHMTY`C{FDGxCsGz@iBdBwDn@wAfCyFLWLUN]P]pCgGvA}ChDqHVg@Vi@~AmDLYjBcE"
+                            },
+                            "start_location": {
+                                "lat": 25.2599366,
+                                "lng": 55.3369855
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "gdjyCwb|pIl@NAB@JDHFDMfAR`@~AtCJLZZZV?B@DDHPDJAFIBItD`@dCZhB\\rA\\`AXrAf@rCnAz@`@RPFLDRG\\c@|@}@`BMLQFKB}@_@w@Ym@KyASoDeAmDg@kPaBiD]y@McAe@a@SY_@GQC]A[Hi@HUTWRMTGXCZBRFRNZh@FZC|@@n@OnAK`AIp@CXILELKt@KXOVa@\\UHU@e@Eg@]S[G]A[Be@Vi@VWZKNC^@d@BZ?`AN~ALxAL`D\\vDTnBF\\Cb@FjC`@hCh@dExAhAb@lAp@tBpAxAnAfEnElHpIvEhFhSpUtBzBtDlEzFlH`G|GdDfDpCbDfF`GfCrCRd@lAlBvDtEnClDhEbFxApAz@b@p@ZxAd@~@L~@BhA?x@E`AAjBYhB[vASnASfAIxBS`AKlB?v@BfAHdAL`ALf@Bv@M\\Oh@i@v@}AdB{DrAwCTa@TY`C{F~C{GxIsRhNiZpFuL"
+            },
+            "summary": "Al Ittihad Rd/Dubai - Sharjah Rd/E11",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}
