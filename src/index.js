@@ -1,9 +1,10 @@
 'use strict';
+require('dotenv').config()
 const _ = require('lodash');
 const { getCache, setCache } = require('./cachingService');
 
 const googleMapsClient = require('@google/maps').createClient({
-    key: 'AIzaSyBtg-c3At_KWlvkfSo5NahzeYD3_MP9Xnw',
+    key: process.env['GOOGLE_KEY'],
     Promise: Promise
 });
 const getPolylineHashes = (data) => {
@@ -41,7 +42,7 @@ const combinations = (list, iterator) => {
     }
     return iterations;
 }
-async function getMatchse() {
+async function getMatchse(locations) {
     const data = await Promise.all(locations.map(getMatchPercentageAPI));
     const results = [];
     console.log('points =', data.length);
@@ -82,4 +83,3 @@ getMatchse([
     'Sultan+palace+restaurant+&+cafe+al+nahda',
     'Abad+Plaza+Restaurant+&+Cafeteria+al+nahda'
 ]);
-module.exports = getMatchPercentage;
