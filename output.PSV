@@ -1,0 +1,240 @@
+sPoint1                                                  | sPoint2                                              | idx1 | idx2 | ∇% | ∇%P1 | ∇%P2 |    ∇ | match | ∇P1  | ∇P2
+Al Reef Al Yamani Restaurant & Bakers                    | Sahara Star Restaurant                               |   23 |   43 |  0 |    0 |    0 |    0 |  5183 | 0    | 0
+Zaid Alammor                                             | Al Reef Al Yamani Restaurant & Bakers                |   16 |   23 |  1 |    1 |    0 |   44 |  5168 | 28   | 16
+Zaid Alammor                                             | Sahara Star Restaurant                               |   16 |   43 |  1 |    1 |    0 |   44 |  5168 | 28   | 16
+Al Reef Al Yamani Restaurant & Bakers                    | Laffah Restaurant Dubai Branch                       |   23 |   40 |  1 |    0 |    1 |   49 |  5167 | 16   | 33
+Laffah Restaurant Dubai Branch                           | Sahara Star Restaurant                               |   40 |   43 |  1 |    1 |    0 |   49 |  5168 | 33   | 16
+Shahran Restaurant                                       |                                                      |    7 |    8 |  1 |    0 |    0 |   52 |  8604 | 13   | 39
+Al Reef Al Yamani Restaurant & Bakers                    | Zayed Al Amoor Seafood Restaurant                    |   23 |   57 |  1 |    0 |    1 |   58 |  5167 | 16   | 42
+Sahara Star Restaurant                                   | Zayed Al Amoor Seafood Restaurant                    |   43 |   57 |  1 |    0 |    1 |   58 |  5168 | 16   | 42
+Zaid Alammor                                             | Laffah Restaurant Dubai Branch                       |   16 |   40 |  1 |    1 |    1 |   61 |  5168 | 28   | 33
+Shahran Restaurant                                       |                                                      |    7 |   31 |  1 |    0 |    1 |   66 |  8604 | 13   | 53
+Zaid Alammor                                             | Zayed Al Amoor Seafood Restaurant                    |   16 |   57 |  1 |    1 |    1 |   70 |  5168 | 28   | 42
+Laffah Restaurant Dubai Branch                           | Zayed Al Amoor Seafood Restaurant                    |   40 |   57 |  1 |    1 |    1 |   75 |  5168 | 33   | 42
+Shahran Restaurant                                       | Shabaka and Senara Seafood Restaurent                |    7 |   45 |  1 |    0 |    1 |   75 |  8604 | 13   | 62
+                                                         |                                                      |    8 |   31 |  1 |    0 |    1 |   92 |  8604 | 39   | 53
+                                                         | Shabaka and Senara Seafood Restaurent                |    8 |   45 |  1 |    0 |    1 |  101 |  8604 | 39   | 62
+                                                         | Shabaka and Senara Seafood Restaurent                |   31 |   45 |  1 |    1 |    1 |  115 |  8604 | 53   | 62
+Shahran Restaurant                                       | Shawerma House                                       |    7 |   36 |  1 |    0 |    1 |  126 |  8604 | 13   | 113
+Al Reef Al Yamani Restaurant & Bakers                    | Al Prince Al Amoor Restaurant -                      |   23 |   33 |  2 |    0 |    2 |  118 |  5167 | 16   | 102
+Al Prince Al Amoor Restaurant -                          | Sahara Star Restaurant                               |   33 |   43 |  2 |    2 |    0 |  118 |  5168 | 102  | 16
+Zaid Alammor                                             | Al Prince Al Amoor Restaurant -                      |   16 |   33 |  2 |    1 |    2 |  130 |  5168 | 28   | 102
+                                                         | Shawerma House                                       |    8 |   36 |  2 |    0 |    1 |  152 |  8604 | 39   | 113
+Russian Traditions Restaurant                            | Taza                                                 |   17 |   18 |  2 |    1 |    0 |  165 | 10400 | 115  | 50
+                                                         | Shawerma House                                       |   31 |   36 |  2 |    1 |    1 |  166 |  8604 | 53   | 113
+Shawerma House                                           | Shabaka and Senara Seafood Restaurent                |   36 |   45 |  2 |    1 |    1 |  175 |  8604 | 113  | 62
+Vapiano                                                  | Tike Taste Of Istanbul Restaurant                    |   35 |   44 |  2 |    1 |    1 |  279 | 13121 | 141  | 138
+Al Prince Al Amoor Restaurant -                          | Laffah Restaurant Dubai Branch                       |   33 |   40 |  3 |    2 |    1 |  135 |  5168 | 102  | 33
+Al Prince Al Amoor Restaurant -                          | Zayed Al Amoor Seafood Restaurant                    |   33 |   57 |  3 |    2 |    1 |  144 |  5168 | 102  | 42
+Star One restaurant                                      | Al Reef Al Yamani Restaurant & Bakers                |    5 |   23 |  3 |    3 |    0 |  169 |  5168 | 153  | 16
+Star One restaurant                                      | Sahara Star Restaurant                               |    5 |   43 |  3 |    3 |    0 |  169 |  5168 | 153  | 16
+Star One restaurant                                      | Zaid Alammor                                         |    5 |   16 |  3 |    3 |    1 |  181 |  5168 | 153  | 28
+Star One restaurant                                      | Laffah Restaurant Dubai Branch                       |    5 |   40 |  3 |    3 |    1 |  186 |  5168 | 153  | 33
+Samakati                                                 | Al Aumdah Restaurant                                 |   51 |   55 |  3 |    1 |    2 |  186 |  5831 | 76   | 110
+Shahran Restaurant                                       | It's Malabar restaurant                              |    7 |   58 |  3 |    0 |    2 |  233 |  8604 | 13   | 220
+                                                         | It's Malabar restaurant                              |    8 |   58 |  3 |    0 |    2 |  259 |  8604 | 39   | 220
+                                                         | It's Malabar restaurant                              |   31 |   58 |  3 |    1 |    2 |  273 |  8604 | 53   | 220
+Shabaka and Senara Seafood Restaurent                    | It's Malabar restaurant                              |   45 |   58 |  3 |    1 |    2 |  282 |  8604 | 62   | 220
+Nahda Gardens Restaurant                                 | Parkview Restaurant                                  |   52 |   53 |  3 |    1 |    2 |  297 |  9195 | 93   | 204
+Star One restaurant                                      | Zayed Al Amoor Seafood Restaurant                    |    5 |   57 |  4 |    3 |    1 |  195 |  5168 | 153  | 42
+Shawerma House                                           | It's Malabar restaurant                              |   36 |   58 |  4 |    1 |    2 |  333 |  8604 | 113  | 220
+Abad Plaza Restaurant & Cafeteria                        | Damietta Restaurant                                  |   14 |   54 |  4 |    3 |    1 |  379 |  8814 | 300  | 79
+Jordanian kitchen restaurant and sweets sharjah          | Delhi Nihari Restaurant - Al Nahda                   |   41 |   50 |  4 |    3 |    1 |  383 |  9295 | 320  | 63
+Star One restaurant                                      | Al Prince Al Amoor Restaurant -                      |    5 |   33 |  5 |    3 |    2 |  255 |  5168 | 153  | 102
+Bangkok Town Restaurant                                  | Al Nadeg Restaurant                                  |   11 |   22 |  5 |    3 |    2 |  257 |  5356 | 150  | 107
+Al Reef Al Yamani Restaurant & Bakers                    | AlKhettar Catering                                   |   23 |   29 |  5 |    2 |    3 |  262 |  5058 | 125  | 137
+AlKhettar Catering                                       | Sahara Star Restaurant                               |   29 |   43 |  5 |    3 |    2 |  262 |  5059 | 137  | 125
+Zaid Alammor                                             | AlKhettar Catering                                   |   16 |   29 |  5 |    3 |    3 |  274 |  5059 | 137  | 137
+AlKhettar Catering                                       | Laffah Restaurant Dubai Branch                       |   29 |   40 |  5 |    3 |    3 |  279 |  5059 | 137  | 142
+AlKhettar Catering                                       | Zayed Al Amoor Seafood Restaurant                    |   29 |   57 |  5 |    3 |    3 |  288 |  5059 | 137  | 151
+Al Nadeg Restaurant                                      | Al Prince Al Amoor Restaurant -                      |   22 |   33 |  5 |    5 |    1 |  301 |  5216 | 247  | 54
+Arabian Taste Resurant                                   | Chicken Tikka                                        |    9 |   34 |  5 |    0 |    5 |  508 |  9612 | 41   | 467
+Arabian Taste Resurant                                   | Najmat Pakistan Restaurant                           |    9 |   47 |  5 |    5 |    0 |  523 |  9174 | 479  | 44
+Hi-Way Fast Food Restaurant                              | Najmat Pakistan Restaurant                           |   12 |   47 |  5 |    5 |    0 |  526 |  9174 | 482  | 44
+jordanian kitchen restaurant and just kunfa sweets       | Taza                                                 |    3 |   18 |  5 |    2 |    4 |  549 | 10065 | 164  | 385
+Al Nadeg Restaurant                                      | Al Reef Al Yamani Restaurant & Bakers                |   22 |   23 |  6 |    5 |    0 |  311 |  5168 | 295  | 16
+Al Nadeg Restaurant                                      | Sahara Star Restaurant                               |   22 |   43 |  6 |    5 |    0 |  311 |  5168 | 295  | 16
+Zaid Alammor                                             | Al Nadeg Restaurant                                  |   16 |   22 |  6 |    1 |    5 |  323 |  5168 | 28   | 295
+Al Reef Al Yamani Restaurant & Bakers                    | Al Fakher Mandi                                      |   23 |   25 |  6 |    0 |    6 |  326 |  5167 | 16   | 310
+Al Fakher Mandi                                          | Sahara Star Restaurant                               |   25 |   43 |  6 |    6 |    0 |  326 |  5168 | 310  | 16
+Al Nadeg Restaurant                                      | Laffah Restaurant Dubai Branch                       |   22 |   40 |  6 |    5 |    1 |  328 |  5168 | 295  | 33
+Al Marhabani Restaurant                                  | Al Reef Al Yamani Restaurant & Bakers                |   15 |   23 |  6 |    4 |    2 |  334 |  5059 | 209  | 125
+Al Marhabani Restaurant                                  | Sahara Star Restaurant                               |   15 |   43 |  6 |    4 |    2 |  334 |  5059 | 209  | 125
+Al Nadeg Restaurant                                      | Zayed Al Amoor Seafood Restaurant                    |   22 |   57 |  6 |    5 |    1 |  337 |  5168 | 295  | 42
+Zaid Alammor                                             | Al Fakher Mandi                                      |   16 |   25 |  6 |    1 |    6 |  338 |  5168 | 28   | 310
+Al Fakher Mandi                                          | Laffah Restaurant Dubai Branch                       |   25 |   40 |  6 |    6 |    1 |  343 |  5168 | 310  | 33
+Bangkok Town Restaurant                                  | Al Prince Al Amoor Restaurant -                      |   11 |   33 |  6 |    5 |    1 |  344 |  5216 | 290  | 54
+Al Marhabani Restaurant                                  | Zaid Alammor                                         |   15 |   16 |  6 |    4 |    3 |  346 |  5059 | 209  | 137
+Al Marhabani Restaurant                                  | AlKhettar Catering                                   |   15 |   29 |  6 |    4 |    3 |  346 |  5059 | 209  | 137
+AlKhettar Catering                                       | Al Prince Al Amoor Restaurant -                      |   29 |   33 |  6 |    3 |    4 |  348 |  5059 | 137  | 211
+Al Marhabani Restaurant                                  | Laffah Restaurant Dubai Branch                       |   15 |   40 |  6 |    4 |    3 |  351 |  5059 | 209  | 142
+Al Fakher Mandi                                          | Zayed Al Amoor Seafood Restaurant                    |   25 |   57 |  6 |    6 |    1 |  352 |  5168 | 310  | 42
+Bangkok Town Restaurant                                  | Al Reef Al Yamani Restaurant & Bakers                |   11 |   23 |  6 |    6 |    0 |  354 |  5168 | 338  | 16
+Bangkok Town Restaurant                                  | Sahara Star Restaurant                               |   11 |   43 |  6 |    6 |    0 |  354 |  5168 | 338  | 16
+Robyan Seafood Restaurant                                | Al Amoor Restaurant                                  |   42 |   49 |  6 |    3 |    3 |  368 |  5979 | 164  | 204
+Robyan Seafood Restaurant                                | Samakati                                             |   42 |   51 |  6 |    5 |    1 |  388 |  5831 | 312  | 76
+Al Nahda Restaurant                                      | Najmat Pakistan Restaurant                           |   19 |   47 |  6 |    4 |    2 |  584 |  9004 | 370  | 214
+jordanian kitchen restaurant and just kunfa sweets       | Russian Traditions Restaurant                        |    3 |   17 |  6 |    2 |    4 |  614 | 10065 | 164  | 450
+jordanian kitchen restaurant and just kunfa sweets       | Arabian Taste Resurant                               |    3 |    9 |  6 |    6 |    0 |  658 |  9612 | 617  | 41
+Al Marhabani Restaurant                                  | Zayed Al Amoor Seafood Restaurant                    |   15 |   57 |  7 |    4 |    3 |  360 |  5059 | 209  | 151
+Bangkok Town Restaurant                                  | Zaid Alammor                                         |   11 |   16 |  7 |    6 |    1 |  366 |  5168 | 338  | 28
+Bangkok Town Restaurant                                  | Laffah Restaurant Dubai Branch                       |   11 |   40 |  7 |    6 |    1 |  371 |  5168 | 338  | 33
+Bangkok Town Restaurant                                  | Zayed Al Amoor Seafood Restaurant                    |   11 |   57 |  7 |    6 |    1 |  380 |  5168 | 338  | 42
+Star One restaurant                                      | AlKhettar Catering                                   |    5 |   29 |  7 |    5 |    3 |  399 |  5059 | 262  | 137
+Al Fakher Mandi                                          | Al Prince Al Amoor Restaurant -                      |   25 |   33 |  7 |    6 |    2 |  412 |  5168 | 310  | 102
+Robyan Seafood Restaurant                                | Al Aumdah Restaurant                                 |   42 |   55 |  7 |    5 |    2 |  422 |  5831 | 312  | 110
+Al Amoor Restaurant                                      | Samakati                                             |   49 |   51 |  7 |    6 |    1 |  428 |  5831 | 352  | 76
+Al Amoor Restaurant                                      | Al Aumdah Restaurant                                 |   49 |   55 |  7 |    6 |    2 |  462 |  5831 | 352  | 110
+Damietta Restaurant                                      | Green Leaf International Restaurant                  |   54 |   59 |  7 |    1 |    7 |  694 |  8814 | 79   | 615
+Al Marhabani Restaurant                                  | Al Prince Al Amoor Restaurant -                      |   15 |   33 |  8 |    4 |    4 |  420 |  5059 | 209  | 211
+Star One restaurant                                      | Al Nadeg Restaurant                                  |    5 |   22 |  8 |    3 |    5 |  448 |  5168 | 153  | 295
+Star One restaurant                                      | Al Fakher Mandi                                      |    5 |   25 |  8 |    3 |    6 |  463 |  5168 | 153  | 310
+Khaimat Al Mandi Restaurant                              | Pars Iranian Restaurant                              |   21 |   56 |  8 |    5 |    4 |  645 |  6979 | 383  | 262
+Arabian Taste Resurant                                   | Hi-Way Fast Food Restaurant                          |    9 |   12 |  8 |    4 |    4 |  819 |  9245 | 408  | 411
+Arabian Taste Resurant                                   | Taza                                                 |    9 |   18 |  8 |    0 |    8 |  879 |  9612 | 41   | 838
+Star One restaurant                                      | Al Marhabani Restaurant                              |    5 |   15 |  9 |    5 |    4 |  471 |  5059 | 262  | 209
+Star One restaurant                                      | Bangkok Town Restaurant                              |    5 |   11 |  9 |    3 |    6 |  491 |  5168 | 153  | 338
+Al Ghaar Restaurant-North Karnataka                      | Najmat Pakistan Restaurant                           |   28 |   47 |  9 |    5 |    4 |  835 |  8853 | 470  | 365
+Najmat Pakistan Restaurant                               | Delhi Nihari Restaurant - Al Nahda                   |   47 |   50 |  9 |    4 |    5 |  870 |  8853 | 365  | 505
+Abad Plaza Restaurant & Cafeteria                        | Green Leaf International Restaurant                  |   14 |   59 |  9 |    3 |    7 |  915 |  8814 | 300  | 615
+Arabian Taste Resurant                                   | Russian Traditions Restaurant                        |    9 |   17 |  9 |    0 |    9 |  944 |  9612 | 41   | 903
+Chicken Tikka                                            | Najmat Pakistan Restaurant                           |   34 |   47 |  9 |    9 |    0 |  949 |  9174 | 905  | 44
+Al Nadeg Restaurant                                      | AlKhettar Catering                                   |   22 |   29 | 10 |    7 |    3 |  541 |  5059 | 404  | 137
+Al Fakher Mandi                                          | AlKhettar Catering                                   |   25 |   29 | 10 |    8 |    3 |  556 |  5059 | 419  | 137
+Bangkok Town Restaurant                                  | AlKhettar Catering                                   |   11 |   29 | 10 |    8 |    3 |  584 |  5059 | 447  | 137
+Al Nadeg Restaurant                                      | Al Fakher Mandi                                      |   22 |   25 | 10 |    5 |    6 |  605 |  5168 | 295  | 310
+Al Ghaar Restaurant-North Karnataka                      | Delhi Nihari Restaurant - Al Nahda                   |   28 |   50 | 10 |    5 |    5 |  975 |  8853 | 470  | 505
+Al Nahda Restaurant                                      | Al Ghaar Restaurant-North Karnataka                  |   19 |   28 | 10 |    6 |    5 |  991 |  8853 | 521  | 470
+Arabian Taste Resurant                                   | Al Nahda Restaurant                                  |    9 |   19 | 10 |    7 |    4 | 1019 |  9004 | 649  | 370
+Hi-Way Fast Food Restaurant                              | Al Nahda Restaurant                                  |   12 |   19 | 10 |    7 |    4 | 1022 |  9004 | 652  | 370
+Al Nahda Restaurant                                      | Delhi Nihari Restaurant - Al Nahda                   |   19 |   50 | 10 |    6 |    5 | 1026 |  8853 | 521  | 505
+jordanian kitchen restaurant and just kunfa sweets       | Chicken Tikka                                        |    3 |   34 | 10 |    6 |    5 | 1084 |  9612 | 617  | 467
+Al Marhabani Restaurant                                  | Al Nadeg Restaurant                                  |   15 |   22 | 11 |    4 |    7 |  613 |  5059 | 209  | 404
+Al Marhabani Restaurant                                  | Al Fakher Mandi                                      |   15 |   25 | 11 |    4 |    8 |  628 |  5059 | 209  | 419
+Bangkok Town Restaurant                                  | Al Fakher Mandi                                      |   11 |   25 | 11 |    6 |    6 |  648 |  5168 | 338  | 310
+Bangkok Town Restaurant                                  | Al Marhabani Restaurant                              |   11 |   15 | 11 |    8 |    4 |  656 |  5059 | 447  | 209
+Food Village Restaurant                                  | Damietta Restaurant                                  |   26 |   54 | 11 |    4 |    8 | 1047 |  8206 | 360  | 687
+Raidan Mandi Restaurant                                  | Sigdi Restaurant - Al Nahda Dubai                    |    1 |   46 | 11 |    3 |    9 | 1056 |  8179 | 235  | 821
+jordanian kitchen restaurant and just kunfa sweets       | Najmat Pakistan Restaurant                           |    3 |   47 | 11 |   10 |    0 | 1099 |  9174 | 1055 | 44
+Jordanian kitchen restaurant and sweets sharjah          | Najmat Pakistan Restaurant                           |   41 |   47 | 11 |    8 |    4 | 1127 |  8853 | 762  | 365
+iCook Asian Restaurant & Catering                        | Al Qantarah Restaurant                               |   13 |   48 | 11 |    5 |    7 | 1298 | 10562 | 560  | 738
+Garlic Routes Restaurant LLC                             | Raidan Mandi Restaurant                              |    0 |    1 | 12 |   10 |    3 | 1160 |  8179 | 925  | 235
+Al Ghaar Restaurant-North Karnataka                      | Jordanian kitchen restaurant and sweets sharjah      |   28 |   41 | 12 |    5 |    8 | 1232 |  8853 | 470  | 762
+Hi-Way Fast Food Restaurant                              | Chicken Tikka                                        |   12 |   34 | 12 |    4 |    8 | 1245 |  9245 | 411  | 834
+Taza                                                     | Chicken Tikka                                        |   18 |   34 | 12 |    8 |    5 | 1305 |  9612 | 838  | 467
+Russian Traditions Restaurant                            | Chicken Tikka                                        |   17 |   34 | 12 |    9 |    5 | 1370 |  9612 | 903  | 467
+Abad Plaza Restaurant & Cafeteria                        | Food Village Restaurant                              |   14 |   26 | 13 |   10 |    4 | 1268 |  8206 | 908  | 360
+Arabian Taste Resurant                                   | Al Ghaar Restaurant-North Karnataka                  |    9 |   28 | 13 |    8 |    5 | 1270 |  8853 | 800  | 470
+Hi-Way Fast Food Restaurant                              | Al Ghaar Restaurant-North Karnataka                  |   12 |   28 | 13 |    8 |    5 | 1273 |  8853 | 803  | 470
+Al Nahda Restaurant                                      | Jordanian kitchen restaurant and sweets sharjah      |   19 |   41 | 13 |    6 |    8 | 1283 |  8853 | 521  | 762
+Arabian Taste Resurant                                   | Delhi Nihari Restaurant - Al Nahda                   |    9 |   50 | 13 |    8 |    5 | 1305 |  8853 | 800  | 505
+Hi-Way Fast Food Restaurant                              | Delhi Nihari Restaurant - Al Nahda                   |   12 |   50 | 13 |    8 |    5 | 1308 |  8853 | 803  | 505
+Taza                                                     | Najmat Pakistan Restaurant                           |   18 |   47 | 13 |   12 |    0 | 1320 |  9174 | 1276 | 44
+Russian Traditions Restaurant                            | Najmat Pakistan Restaurant                           |   17 |   47 | 13 |   13 |    0 | 1385 |  9174 | 1341 | 44
+jordanian kitchen restaurant and just kunfa sweets       | Hi-Way Fast Food Restaurant                          |    3 |   12 | 13 |   10 |    4 | 1395 |  9245 | 984  | 411
+Al Nahda Restaurant                                      | Chicken Tikka                                        |   19 |   34 | 14 |    4 |   11 | 1445 |  9004 | 370  | 1075
+Arabian Taste Resurant                                   | Jordanian kitchen restaurant and sweets sharjah      |    9 |   41 | 15 |    8 |    8 | 1562 |  8853 | 800  | 762
+Hi-Way Fast Food Restaurant                              | Jordanian kitchen restaurant and sweets sharjah      |   12 |   41 | 15 |    8 |    8 | 1565 |  8853 | 803  | 762
+jordanian kitchen restaurant and just kunfa sweets       | Al Nahda Restaurant                                  |    3 |   19 | 15 |   12 |    4 | 1595 |  9004 | 1225 | 370
+Hi-Way Fast Food Restaurant                              | Taza                                                 |   12 |   18 | 15 |    4 |   12 | 1616 |  9245 | 411  | 1205
+Hi-Way Fast Food Restaurant                              | Russian Traditions Restaurant                        |   12 |   17 | 15 |    4 |   12 | 1681 |  9245 | 411  | 1270
+Food Village Restaurant                                  | Green Leaf International Restaurant                  |   26 |   59 | 16 |    4 |   13 | 1583 |  8206 | 360  | 1223
+Al Ghaar Restaurant-North Karnataka                      | Chicken Tikka                                        |   28 |   34 | 16 |    5 |   12 | 1696 |  8853 | 470  | 1226
+Chicken Tikka                                            | Delhi Nihari Restaurant - Al Nahda                   |   34 |   50 | 16 |   12 |    5 | 1731 |  8853 | 1226 | 505
+Al shahd restaurant                                      | Kukko Restaurant                                     |   37 |   38 | 16 |   13 |    5 | 1893 |  9808 | 1421 | 472
+Taza                                                     | Al Nahda Restaurant                                  |   18 |   19 | 17 |   14 |    4 | 1816 |  9004 | 1446 | 370
+jordanian kitchen restaurant and just kunfa sweets       | Al Ghaar Restaurant-North Karnataka                  |    3 |   28 | 17 |   13 |    5 | 1846 |  8853 | 1376 | 470
+Russian Traditions Restaurant                            | Al Nahda Restaurant                                  |   17 |   19 | 17 |   14 |    4 | 1881 |  9004 | 1511 | 370
+Garlic Routes Restaurant LLC                             | Sigdi Restaurant - Al Nahda Dubai                    |    0 |   46 | 18 |   10 |    9 | 1746 |  8179 | 925  | 821
+Noor Al Mandi Restaurant                                 | Nahda Gardens Restaurant                             |   24 |   52 | 18 |   12 |    8 | 1879 |  8550 | 1141 | 738
+jordanian kitchen restaurant and just kunfa sweets       | Delhi Nihari Restaurant - Al Nahda                   |    3 |   50 | 18 |   13 |    5 | 1881 |  8853 | 1376 | 505
+Chicken Tikka                                            | Jordanian kitchen restaurant and sweets sharjah      |   34 |   41 | 18 |   12 |    8 | 1988 |  8853 | 1226 | 762
+Zaafaran Restaurant                                      | Najmat Pakistan Restaurant                           |   30 |   47 | 19 |   11 |   11 | 1972 |  8248 | 1002 | 970
+Noor Al Mandi Restaurant                                 | Parkview Restaurant                                  |   24 |   53 | 19 |   12 |    9 | 1990 |  8550 | 1141 | 849
+Taza                                                     | Al Ghaar Restaurant-North Karnataka                  |   18 |   28 | 19 |   15 |    5 | 2067 |  8853 | 1597 | 470
+Taza                                                     | Delhi Nihari Restaurant - Al Nahda                   |   18 |   50 | 19 |   15 |    5 | 2102 |  8853 | 1597 | 505
+Russian Traditions Restaurant                            | Al Ghaar Restaurant-North Karnataka                  |   17 |   28 | 19 |   16 |    5 | 2132 |  8853 | 1662 | 470
+jordanian kitchen restaurant and just kunfa sweets       | Jordanian kitchen restaurant and sweets sharjah      |    3 |   41 | 19 |   13 |    8 | 2138 |  8853 | 1376 | 762
+Al Ghaar Restaurant-North Karnataka                      | Zaafaran Restaurant                                  |   28 |   30 | 20 |   12 |   11 | 2077 |  8248 | 1075 | 1002
+Zaafaran Restaurant                                      | Delhi Nihari Restaurant - Al Nahda                   |   30 |   50 | 20 |   11 |   12 | 2112 |  8248 | 1002 | 1110
+Russian Traditions Restaurant                            | Delhi Nihari Restaurant - Al Nahda                   |   17 |   50 | 20 |   16 |    5 | 2167 |  8853 | 1662 | 505
+Dawar Al Tawoon Restaurant                               | Al Bait Al Turkey Rest                               |    4 |   39 | 20 |    8 |   14 | 2259 |  8776 | 776  | 1483
+Al Nahda Restaurant                                      | Zaafaran Restaurant                                  |   19 |   30 | 21 |   12 |   11 | 2128 |  8248 | 1126 | 1002
+Taza                                                     | Jordanian kitchen restaurant and sweets sharjah      |   18 |   41 | 21 |   15 |    8 | 2359 |  8853 | 1597 | 762
+Russian Traditions Restaurant                            | Jordanian kitchen restaurant and sweets sharjah      |   17 |   41 | 21 |   16 |    8 | 2424 |  8853 | 1662 | 762
+Zaafaran Restaurant                                      | Jordanian kitchen restaurant and sweets sharjah      |   30 |   41 | 22 |   11 |   14 | 2369 |  8248 | 1002 | 1367
+Al Reef Al Yamani Restaurant & Bakers                    | Samakati                                             |   23 |   51 | 23 |    7 |   18 | 1439 |  4825 | 358  | 1081
+Sahara Star Restaurant                                   | Samakati                                             |   43 |   51 | 23 |    7 |   18 | 1439 |  4826 | 358  | 1081
+Zaid Alammor                                             | Samakati                                             |   16 |   51 | 23 |    7 |   18 | 1451 |  4826 | 370  | 1081
+AlKhettar Catering                                       | Samakati                                             |   29 |   51 | 23 |    7 |   18 | 1451 |  4826 | 370  | 1081
+Laffah Restaurant Dubai Branch                           | Samakati                                             |   40 |   51 | 23 |    7 |   18 | 1456 |  4826 | 375  | 1081
+Samakati                                                 | Zayed Al Amoor Seafood Restaurant                    |   51 |   57 | 23 |   18 |    7 | 1465 |  4826 | 1081 | 384
+Al Reef Al Yamani Restaurant & Bakers                    | Al Aumdah Restaurant                                 |   23 |   55 | 23 |    7 |   19 | 1473 |  4825 | 358  | 1115
+Sahara Star Restaurant                                   | Al Aumdah Restaurant                                 |   43 |   55 | 23 |    7 |   19 | 1473 |  4826 | 358  | 1115
+Arabian Taste Resurant                                   | Zaafaran Restaurant                                  |    9 |   30 | 23 |   15 |   11 | 2407 |  8248 | 1405 | 1002
+Hi-Way Fast Food Restaurant                              | Zaafaran Restaurant                                  |   12 |   30 | 23 |   15 |   11 | 2410 |  8248 | 1408 | 1002
+Zaid Alammor                                             | Al Aumdah Restaurant                                 |   16 |   55 | 24 |    7 |   19 | 1485 |  4826 | 370  | 1115
+AlKhettar Catering                                       | Al Aumdah Restaurant                                 |   29 |   55 | 24 |    7 |   19 | 1485 |  4826 | 370  | 1115
+Laffah Restaurant Dubai Branch                           | Al Aumdah Restaurant                                 |   40 |   55 | 24 |    7 |   19 | 1490 |  4826 | 375  | 1115
+Al Aumdah Restaurant                                     | Zayed Al Amoor Seafood Restaurant                    |   55 |   57 | 24 |   19 |    7 | 1499 |  4826 | 1115 | 384
+Al Marhabani Restaurant                                  | Samakati                                             |   15 |   51 | 24 |    8 |   18 | 1523 |  4826 | 442  | 1081
+Al Prince Al Amoor Restaurant -                          | Samakati                                             |   33 |   51 | 24 |    8 |   18 | 1525 |  4826 | 444  | 1081
+Al Marhabani Restaurant                                  | Al Aumdah Restaurant                                 |   15 |   55 | 24 |    8 |   19 | 1557 |  4826 | 442  | 1115
+Al Prince Al Amoor Restaurant -                          | Al Aumdah Restaurant                                 |   33 |   55 | 24 |    8 |   19 | 1559 |  4826 | 444  | 1115
+Star One restaurant                                      | Samakati                                             |    5 |   51 | 25 |    9 |   18 | 1576 |  4826 | 495  | 1081
+Star One restaurant                                      | Al Aumdah Restaurant                                 |    5 |   55 | 25 |    9 |   19 | 1610 |  4826 | 495  | 1115
+Alvand Restaurant                                        | Samakati                                             |   20 |   51 | 25 |   20 |    8 | 1832 |  5444 | 1369 | 463
+Food Village Restaurant                                  | Nahda Gardens Restaurant                             |   26 |   52 | 25 |   10 |   17 | 2508 |  7673 | 893  | 1615
+Food Village Restaurant                                  | Parkview Restaurant                                  |   26 |   53 | 25 |   10 |   18 | 2619 |  7673 | 893  | 1726
+Al Reef Al Yamani Restaurant & Bakers                    | Robyan Seafood Restaurant                            |   23 |   42 | 26 |    7 |   21 | 1675 |  4825 | 358  | 1317
+Robyan Seafood Restaurant                                | Sahara Star Restaurant                               |   42 |   43 | 26 |   21 |    7 | 1675 |  4826 | 1317 | 358
+Zaid Alammor                                             | Robyan Seafood Restaurant                            |   16 |   42 | 26 |    7 |   21 | 1687 |  4826 | 370  | 1317
+AlKhettar Catering                                       | Robyan Seafood Restaurant                            |   29 |   42 | 26 |    7 |   21 | 1687 |  4826 | 370  | 1317
+Laffah Restaurant Dubai Branch                           | Robyan Seafood Restaurant                            |   40 |   42 | 26 |    7 |   21 | 1692 |  4826 | 375  | 1317
+Robyan Seafood Restaurant                                | Zayed Al Amoor Seafood Restaurant                    |   42 |   57 | 26 |   21 |    7 | 1701 |  4826 | 1317 | 384
+Al Reef Al Yamani Restaurant & Bakers                    | Al Amoor Restaurant                                  |   23 |   49 | 26 |    7 |   22 | 1715 |  4825 | 358  | 1357
+Sahara Star Restaurant                                   | Al Amoor Restaurant                                  |   43 |   49 | 26 |    7 |   22 | 1715 |  4826 | 358  | 1357
+Al Nadeg Restaurant                                      | Samakati                                             |   22 |   51 | 26 |   12 |   18 | 1718 |  4826 | 637  | 1081
+Zaid Alammor                                             | Al Amoor Restaurant                                  |   16 |   49 | 26 |    7 |   22 | 1727 |  4826 | 370  | 1357
+AlKhettar Catering                                       | Al Amoor Restaurant                                  |   29 |   49 | 26 |    7 |   22 | 1727 |  4826 | 370  | 1357
+Laffah Restaurant Dubai Branch                           | Al Amoor Restaurant                                  |   40 |   49 | 26 |    7 |   22 | 1732 |  4826 | 375  | 1357
+Al Fakher Mandi                                          | Samakati                                             |   25 |   51 | 26 |   12 |   18 | 1733 |  4826 | 652  | 1081
+Alvand Restaurant                                        | Al Aumdah Restaurant                                 |   20 |   55 | 26 |   20 |    8 | 1866 |  5444 | 1369 | 497
+Zaafaran Restaurant                                      | Chicken Tikka                                        |   30 |   34 | 26 |   11 |   18 | 2833 |  8248 | 1002 | 1831
+Al Amoor Restaurant                                      | Zayed Al Amoor Seafood Restaurant                    |   49 |   57 | 27 |   22 |    7 | 1741 |  4826 | 1357 | 384
+Al Nadeg Restaurant                                      | Al Aumdah Restaurant                                 |   22 |   55 | 27 |   12 |   19 | 1752 |  4826 | 637  | 1115
+Al Marhabani Restaurant                                  | Robyan Seafood Restaurant                            |   15 |   42 | 27 |    8 |   21 | 1759 |  4826 | 442  | 1317
+Bangkok Town Restaurant                                  | Samakati                                             |   11 |   51 | 27 |   12 |   18 | 1761 |  4826 | 680  | 1081
+Al Prince Al Amoor Restaurant -                          | Robyan Seafood Restaurant                            |   33 |   42 | 27 |    8 |   21 | 1761 |  4826 | 444  | 1317
+Al Fakher Mandi                                          | Al Aumdah Restaurant                                 |   25 |   55 | 27 |   12 |   19 | 1767 |  4826 | 652  | 1115
+Bangkok Town Restaurant                                  | Al Aumdah Restaurant                                 |   11 |   55 | 27 |   12 |   19 | 1795 |  4826 | 680  | 1115
+Al Marhabani Restaurant                                  | Al Amoor Restaurant                                  |   15 |   49 | 27 |    8 |   22 | 1799 |  4826 | 442  | 1357
+Al Prince Al Amoor Restaurant -                          | Al Amoor Restaurant                                  |   33 |   49 | 27 |    8 |   22 | 1801 |  4826 | 444  | 1357
+Star One restaurant                                      | Robyan Seafood Restaurant                            |    5 |   42 | 27 |    9 |   21 | 1812 |  4826 | 495  | 1317
+Nahda Gardens Restaurant                                 | Damietta Restaurant                                  |   52 |   54 | 27 |   17 |   14 | 2835 |  7673 | 1615 | 1220
+jordanian kitchen restaurant and just kunfa sweets       | Zaafaran Restaurant                                  |    3 |   30 | 27 |   19 |   11 | 2983 |  8248 | 1981 | 1002
+Kukko Restaurant                                         | Najmat Pakistan Restaurant                           |   38 |   47 | 27 |   20 |   11 | 3002 |  8248 | 2032 | 970
+Zaafaran Restaurant                                      | Kukko Restaurant                                     |   30 |   38 | 27 |   11 |   20 | 3034 |  8248 | 1002 | 2032
+Al Ghaar Restaurant-North Karnataka                      | Kukko Restaurant                                     |   28 |   38 | 27 |   12 |   20 | 3107 |  8248 | 1075 | 2032
+Star One restaurant                                      | Al Amoor Restaurant                                  |    5 |   49 | 28 |    9 |   22 | 1852 |  4826 | 495  | 1357
+Alvand Restaurant                                        | Robyan Seafood Restaurant                            |   20 |   42 | 28 |   20 |   11 | 2068 |  5444 | 1369 | 699
+Alvand Restaurant                                        | Al Amoor Restaurant                                  |   20 |   49 | 28 |   20 |   12 | 2108 |  5444 | 1369 | 739
+Noor Al Mandi Restaurant                                 | Food Village Restaurant                              |   24 |   26 | 28 |   21 |   10 | 2911 |  7673 | 2018 | 893
+Parkview Restaurant                                      | Damietta Restaurant                                  |   53 |   54 | 28 |   18 |   14 | 2946 |  7673 | 1726 | 1220
+Abad Plaza Restaurant & Cafeteria                        | Nahda Gardens Restaurant                             |   14 |   52 | 28 |   16 |   17 | 3056 |  7673 | 1441 | 1615
+Kukko Restaurant                                         | Delhi Nihari Restaurant - Al Nahda                   |   38 |   50 | 28 |   20 |   12 | 3142 |  8248 | 2032 | 1110
+Al Nahda Restaurant                                      | Kukko Restaurant                                     |   19 |   38 | 28 |   12 |   20 | 3158 |  8248 | 1126 | 2032
+Taza                                                     | Zaafaran Restaurant                                  |   18 |   30 | 28 |   21 |   11 | 3204 |  8248 | 2202 | 1002
+Russian Traditions Restaurant                            | Zaafaran Restaurant                                  |   17 |   30 | 28 |   22 |   11 | 3269 |  8248 | 2267 | 1002
+Al Nadeg Restaurant                                      | Robyan Seafood Restaurant                            |   22 |   42 | 29 |   12 |   21 | 1954 |  4826 | 637  | 1317
+Al Fakher Mandi                                          | Robyan Seafood Restaurant                            |   25 |   42 | 29 |   12 |   21 | 1969 |  4826 | 652  | 1317
+Al Nadeg Restaurant                                      | Al Amoor Restaurant                                  |   22 |   49 | 29 |   12 |   22 | 1994 |  4826 | 637  | 1357
+Bangkok Town Restaurant                                  | Robyan Seafood Restaurant                            |   11 |   42 | 29 |   12 |   21 | 1997 |  4826 | 680  | 1317
+Al Fakher Mandi                                          | Al Amoor Restaurant                                  |   25 |   49 | 29 |   12 |   22 | 2009 |  4826 | 652  | 1357
+Samakati                                                 | Pars Iranian Restaurant                              |   51 |   56 | 29 |    8 |   25 | 2260 |  5444 | 463  | 1797
+Abad Plaza Restaurant & Cafeteria                        | Parkview Restaurant                                  |   14 |   53 | 29 |   16 |   18 | 3167 |  7673 | 1441 | 1726
+Kukko Restaurant                                         | Jordanian kitchen restaurant and sweets sharjah      |   38 |   41 | 29 |   20 |   14 | 3399 |  8248 | 2032 | 1367
+Arabian Taste Resurant                                   | Kukko Restaurant                                     |    9 |   38 | 29 |   15 |   20 | 3437 |  8248 | 1405 | 2032
+Hi-Way Fast Food Restaurant                              | Kukko Restaurant                                     |   12 |   38 | 29 |   15 |   20 | 3440 |  8248 | 1408 | 2032
+Kukko Restaurant                                         | Tike Taste Of Istanbul Restaurant                    |   38 |   44 | 29 |    5 |   26 | 3923 |  9808 | 472  | 3451
+Vapiano                                                  | Kukko Restaurant                                     |   35 |   38 | 29 |   26 |    5 | 3926 |  9808 | 3454 | 472

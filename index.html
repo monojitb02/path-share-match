@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Simple Polylines</title>
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <script>
+        function initMap() {
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 14,
+                center: {
+                    "lat": 25.2747941,
+                    "lng": 55.3808552
+                },
+                mapTypeId: 'terrain'
+            });
+            const path = "a_gyCeq_qIVEtAz@pGxDjK~GvA~@hEvCtFfDtBrAzAv@j@b@rD~BnBfAXb@TPd@ZHLFP@XOp@ARmAdCkD~G{O|[{@vBs@rB{@jDe@bCa@zCQtBMnDGdJEhCKfGQ`Cc@lCc@dBg@rAm@nAeAbBwAbBaKxJoF`FYp@qAtAyD|D_A~@MTK\\El@Fv@FVPT^^vEvEdAbAt@b@nBxBpCbDdDfDfEzExH|If@fArBlCpCjD|EfGfBpBxApAnAn@t@ZhAZvAL~B?dBE|Ew@~Ce@jBOzBUjAE~BF~@FbBTt@Hz@G\\M^UZ_@z@cBhC}Ft@_B^g@fCcGtE}JjHaPrN{ZxEkK";
+
+            const line = new google.maps.Polyline({
+                path: google.maps.geometry.encoding.decodePath(path),
+                geodesic: true,
+                strokeColor: '#FF0000',
+                strokeOpacity: 1.0,
+                strokeWeight: 3,
+                draggable: true,
+                map
+            });
+            new google.maps.Marker({
+                position: line.getPath().getAt(0),
+                map: map,
+                title: 'Golden Gate Bridge'
+            });
+        }
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyAmPd7GvdyO8BDMhJdNXWIQqJwrE34PMDQ&libraries=geometry&callback=initMap">
+        </script>
+</body>
+
+</html>

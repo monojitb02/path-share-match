@@ -2,7 +2,7 @@
     "geocoded_waypoints": [
         {
             "geocoder_status": "OK",
-            "place_id": "ChIJK3_sr2VcXz4RUyHDu7loUHs",
+            "place_id": "ChIJ-X4J6WxcXz4RimDC5SigcOs",
             "types": [
                 "establishment",
                 "food",
@@ -24,128 +24,152 @@
         {
             "bounds": {
                 "northeast": {
-                    "lat": 25.2935671,
-                    "lng": 55.3698606
+                    "lat": 25.2943862,
+                    "lng": 55.37828289999999
                 },
                 "southwest": {
                     "lat": 25.2476573,
-                    "lng": 55.3364875
+                    "lng": 55.33648179999999
                 }
             },
             "copyrights": "Map data ©2019",
             "legs": [
                 {
                     "distance": {
-                        "text": "8.9 km",
-                        "value": 8860
+                        "text": "9.3 km",
+                        "value": 9288
                     },
                     "duration": {
-                        "text": "10 mins",
-                        "value": 573
+                        "text": "11 mins",
+                        "value": 643
                     },
                     "end_address": "Dubai International Airport (DXB) - Dubai - United Arab Emirates",
                     "end_location": {
                         "lat": 25.2476573,
                         "lng": 55.3521753
                     },
-                    "start_address": "Al Nahda1(Qusais) Opp.NMC Hospital - دبي - United Arab Emirates",
+                    "start_address": "G Floor,Wasl Building,19 A Street,Al Nahda - Dubai - United Arab Emirates",
                     "start_location": {
-                        "lat": 25.2903612,
-                        "lng": 55.3671056
+                        "lat": 25.2939978,
+                        "lng": 55.37828289999999
                     },
                     "steps": [
                         {
                             "distance": {
-                                "text": "0.2 km",
-                                "value": 163
+                                "text": "14 m",
+                                "value": 14
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 33
+                                "value": 3
                             },
                             "end_location": {
-                                "lat": 25.2914863,
-                                "lng": 55.3661074
+                                "lat": 25.293889,
+                                "lng": 55.3782064
                             },
-                            "html_instructions": "Head <b>northwest</b> on <b>6 A St</b> toward <b>3rd St</b>",
+                            "html_instructions": "Head <b>southwest</b> toward <b>19 A St</b>",
                             "polyline": {
-                                "points": "wojyCm{|pIGRyAtAiA`AYT[D"
+                                "points": "ofkyCga_qITL"
                             },
                             "start_location": {
-                                "lat": 25.2903612,
-                                "lng": 55.3671056
+                                "lat": 25.2939978,
+                                "lng": 55.37828289999999
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "79 m",
+                                "value": 79
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 14
+                            },
+                            "end_location": {
+                                "lat": 25.2942248,
+                                "lng": 55.3775144
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>19 A St</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "yekyCy`_qIO\\S`@EJENGTIX"
+                            },
+                            "start_location": {
+                                "lat": 25.293889,
+                                "lng": 55.3782064
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.6 km",
+                                "value": 645
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 73
+                            },
+                            "end_location": {
+                                "lat": 25.2906397,
+                                "lng": 55.3730485
+                            },
+                            "html_instructions": "At the roundabout, take the <b>2nd</b> exit<div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+                            "maneuver": "roundabout-right",
+                            "polyline": {
+                                "points": "{gkyCm|~pIE?E@EBCBCBCDADAF?B?B?B?B@B?B@B@B@BBD@@BB@@@@B?@@B?@@DFJJPXBHp@jAn@`AXb@b@n@l@v@JRBBHTA@?@?@?@?@?@?B?@?@?B@@?@@@?@@?@@?@@@@@@?@@@?@@@?@?@?@?@?@?B?HHB@DFLNR^TZPTDD`@^HD`@X\\RTNdAp@j@Z^VDDDDDDDHBDDL"
+                            },
+                            "start_location": {
+                                "lat": 25.2942248,
+                                "lng": 55.3775144
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
                                 "text": "0.3 km",
-                                "value": 332
+                                "value": 340
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 46
+                                "value": 70
                             },
                             "end_location": {
-                                "lat": 25.2935683,
-                                "lng": 55.3684597
+                                "lat": 25.2923636,
+                                "lng": 55.3702994
                             },
-                            "html_instructions": "Turn <b>right</b> onto <b>3rd St</b>",
-                            "maneuver": "turn-right",
-                            "polyline": {
-                                "points": "yvjyCeu|pIOQq@y@g@s@sAiBKK_@e@u@u@QQ}@w@CCIIKMU]"
-                            },
-                            "start_location": {
-                                "lat": 25.2914863,
-                                "lng": 55.3661074
-                            },
-                            "travel_mode": "DRIVING"
-                        },
-                        {
-                            "distance": {
-                                "text": "0.2 km",
-                                "value": 159
-                            },
-                            "duration": {
-                                "text": "1 min",
-                                "value": 24
-                            },
-                            "end_location": {
-                                "lat": 25.2927011,
-                                "lng": 55.3696937
-                            },
-                            "html_instructions": "At the roundabout, take the <b>1st</b> exit",
+                            "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>7 A St</b>",
                             "maneuver": "roundabout-right",
                             "polyline": {
-                                "points": "yckyC{c}pI?A?A?A?AHYBGJQR[~B}C"
+                                "points": "oqjyCq`~pI?B?@@@?B@@EHCLGRYl@k@jACB[p@Yj@a@t@g@t@W^a@n@eArA"
                             },
                             "start_location": {
-                                "lat": 25.2935683,
-                                "lng": 55.3684597
+                                "lat": 25.2906397,
+                                "lng": 55.3730485
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
                                 "text": "0.5 km",
-                                "value": 533
+                                "value": 537
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 61
+                                "value": 74
                             },
                             "end_location": {
                                 "lat": 25.2888404,
                                 "lng": 55.3669564
                             },
-                            "html_instructions": "Turn <b>right</b> onto <b>Amman St</b>/<wbr/><b>D97</b>",
-                            "maneuver": "turn-right",
+                            "html_instructions": "Turn <b>left</b> onto <b>Amman St</b>/<wbr/><b>D97</b> (signs for <b>Al Qusais</b>/<wbr/><b>Al Mamzar</b>/<wbr/><b>E11</b>)",
+                            "maneuver": "turn-left",
                             "polyline": {
-                                "points": "k~jyCqk}pIJGDCFEFGHCBAFAD?D?D@D?NDXFXZ|@|@nBdBjBxA|BhB~@x@nBtAf@^"
+                                "points": "g|jyCko}pIWXNP|@z@XZ|@|@nBdBjBxA|BhB~@x@nBtAf@^"
                             },
                             "start_location": {
-                                "lat": 25.2927011,
-                                "lng": 55.3696937
+                                "lat": 25.2923636,
+                                "lng": 55.3702994
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -275,7 +299,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "wojyCm{|pIGRyAtAcBvA[DOQyAmB_BuBuA{A}AwAa@m@?CLc@^m@~B}CJGLIPKVCt@NvAxAnBdBjBxA|DbDvCtBj@hADX?VW|Aw@|Co@xCg@`Eg@hFcAjIa@jDGp@MRQhAMZOPSPSHUDS?e@Kc@_@O[G_@AUHk@JUTYTMVI~@Bh@@bBThBLzCZzALfFXt@CnDh@hCh@xAd@tDvAlCzA`BlApCpCbDnDlDbEpAxAzHxIzAbBnEfFbH~HfGfHdC~C|ApBnBxBpCbDdDfDfEzExH|If@fArBlCpCjD|EfGfBpBxApAnAn@t@ZhAZvAL~B?dBE|Ew@~Ce@jBOzBUjAE~BF~@FbBTt@Hz@G\\M^UZ_@z@cBhC}Ft@_B^g@fCcGtE}JjHaP`EyIpHaPxEkK"
+                "points": "ofkyCga_qITLO\\Yl@Md@IXE?KDGFGV@NDNJLJBFH\\d@t@tAhAdB`B~BFV?B?H?FHLNDH?`@b@h@z@VZj@d@~@l@fDtBVZHX@DCJK`@eAxB{AvC_AtAgBbCWXNPvAvAlDbDhFbEnDnCf@^NXLTPd@@\\AVMp@e@jBu@bDc@fCiAvKiAjJUrBCXILELKt@KXOVMNSLUHg@?SCSM][M]E_@?]Jg@NUVWZKNCdADZ?`AN~ALxAL`D\\vDTnBF\\Cb@FjC`@hCh@dExAhAb@lAp@tBpAxAnAfEnE`CnCzEvFtHpIzKhMtEdF~FbHpDvE`G|GdDfDpCbDfF`GfCrCRd@lAlBfIbKhEbFxApAz@b@p@Z|@XfATrAFlBATC`AAjBYhB[vASnASfAIxBS`AKlB?~BLfCZf@Bv@M\\OPOb@m@pAmCrCoGTa@TY`C{F~C{G`DaHrE_KdQs_@xB}E"
             },
             "summary": "Al Ittihad Rd/Dubai - Sharjah Rd/E11",
             "warnings": [],

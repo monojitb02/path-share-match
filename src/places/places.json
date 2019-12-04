@@ -1,0 +1,2978 @@
+[
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2885166,
+                "lng": 55.3631786
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28985712989272,
+                    "lng": 55.36455972989272
+                },
+                "southwest": {
+                    "lat": 25.28715747010727,
+                    "lng": 55.36186007010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "ed520eb0fef78f3a3b2eab164c6d14b40ce4c7cb",
+        "name": "Garlic Routes Restaurant LLC",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113658945555565369748/photos\">Priyanka Umesh Shetty</a>"
+                ],
+                "photo_reference": "CmRaAAAAhfexmdCFeubOoX-7uhT9NYO8eYj4em4FgedkFnuwkzePYWdtTLKTWBJMRgb6soMvX98QT4sz2IWQaqNXMGl_Jwenb2_q7IwjqZAwyMsqCmTtFxo7LkgMHmMuS5uRRifLEhB3uDLUQsugWu8nXHq9F0gSGhQbpK26shRxFu7zJsDCCbAri2aeqA",
+                "width": 3120
+            }
+        ],
+        "place_id": "ChIJfT257GNcXz4Rw8gRhpMEZjQ",
+        "plus_code": {
+            "compound_code": "79Q7+C7 Dubai",
+            "global_code": "7HQQ79Q7+C7"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJfT257GNcXz4Rw8gRhpMEZjQ",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 102
+    },
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2850481,
+                "lng": 55.3595722
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28640327989272,
+                    "lng": 55.36090032989272
+                },
+                "southwest": {
+                    "lat": 25.28370362010727,
+                    "lng": 55.35820067010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "bcdf4c061120d5e59e5f1e9530135226d878b961",
+        "name": "Raidan Mandi Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3036,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108482624494453802360/photos\">Azmat Khalid</a>"
+                ],
+                "photo_reference": "CmRaAAAAQ9W8u9QUNxx3gbh88AJoNKGSjnqs6a-C_j89n2Xqv9aCPAKUD9xz1NzQXLbv8nmKud4j1odaDwxpQ3hkiwQVxc2LVhe8E75H6iEQ676XI5dl05xqq3d30Vbbd0qGbSkQEhCFaWoJ86E8wU-wsLrkds5-GhS3Ik8WOiEjyf2VOjJwAJA6vFzpqw",
+                "width": 4048
+            }
+        ],
+        "place_id": "ChIJgayJw2FcXz4RNvQPfA0olZI",
+        "plus_code": {
+            "compound_code": "79P5+2R Dubai",
+            "global_code": "7HQQ79P5+2R"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJgayJw2FcXz4RNvQPfA0olZI",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1679
+    },
+    {
+        "formatted_address": "Garden Tower - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3305675,
+                "lng": 55.3733968
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.33196327989272,
+                    "lng": 55.37476692989271
+                },
+                "southwest": {
+                    "lat": 25.32926362010727,
+                    "lng": 55.37206727010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "784c4f408599df85485cb4aef2ee6f972bb4fb0d",
+        "name": "Wadi Al Zaitun Resturant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113298603768162512049/photos\">Sami Hassouneh</a>"
+                ],
+                "photo_reference": "CmRZAAAA-eL915EkjpBdLJL-8z4bb79szGTR8FO0FWrqy0NLR_s6S15JcXzafiZOUFQqpB7QxLlihcW7ffxe_h6a8SF77JOxQJHot4isXKe24likMqkXVoKShhLj-WLdbRFbBCuREhACtTXLTzCHedlpU0Gd_o74GhSeSVJxCK0fG9fGB4pdOBpfEAw-Fw",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJXRUHtoBbXz4RTzTDls5OfQ8",
+        "plus_code": {
+            "compound_code": "89JF+69 Sharjah",
+            "global_code": "7HQQ89JF+69"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJXRUHtoBbXz4RTzTDls5OfQ8",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 147
+    },
+    {
+        "formatted_address": "Al Wahda St - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.30392,
+                "lng": 55.3712097
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30541062989272,
+                    "lng": 55.37261967989272
+                },
+                "southwest": {
+                    "lat": 25.30271097010728,
+                    "lng": 55.36992002010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "5a49af3183f85f8dda5df2cf856be60595d3337a",
+        "name": "jordanian kitchen restaurant and just kunfa sweetsمطعم المطبخ الاردني وحلويات جست كنافة الشارقة",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 540,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115795989349801029429/photos\">جبريل جبريل</a>"
+                ],
+                "photo_reference": "CmRaAAAACwlmviajcum6GKzeoFxXmpvW5kQj0KvnEXXdijOPi24loUqoOQ_xG3F9it8gV9kOfbDNIOL15u38fOPBpP7xDGGhjBYkvqBYLxyfi8z9D2lpRJnnTYlRXRl9jThEY5DpEhA9HrRg51Dt4-6PefgyJLi0GhTdKXjKZozY1zy2W3D1Y04RT6B2rw",
+                "width": 960
+            }
+        ],
+        "place_id": "ChIJbw-perJbXz4RTDXsDiMPX4U",
+        "plus_code": {
+            "compound_code": "893C+HF Sharjah",
+            "global_code": "7HQQ893C+HF"
+        },
+        "rating": 3.6,
+        "reference": "ChIJbw-perJbXz4RTDXsDiMPX4U",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 19
+    },
+    {
+        "formatted_address": "Al Sheba Building, E-Block، Al Taawun Street, - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3047887,
+                "lng": 55.36753179999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30605837989272,
+                    "lng": 55.36871212989272
+                },
+                "southwest": {
+                    "lat": 25.30335872010728,
+                    "lng": 55.36601247010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "d7ca99ca6e425b8230094de7c0155bec712b2688",
+        "name": "Dawar Al Tawoon Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4128,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116829580717364682780/photos\">Dubai Walay</a>"
+                ],
+                "photo_reference": "CmRaAAAA5VwJvoeru9Z4vZ5BQOvAQnMigxksABsx-TypL-lWhYRLh_e70-NTCc3WvLJU2VeNxwpId7GTVueLsa7R8UwCY-Sd7vbypphFzUfwpDLKb1JrsbVK_pu9WlIPhVMYSn3_EhBlDCxS6PVsy4ZVxTRi7Z05GhSSZViV4DO-ULADWbjkFH3toKgMqg",
+                "width": 3096
+            }
+        ],
+        "place_id": "ChIJgy-zmodbXz4RH3pev6H4V9E",
+        "plus_code": {
+            "compound_code": "8939+W2 Sharjah",
+            "global_code": "7HQQ8939+W2"
+        },
+        "rating": 3.7,
+        "reference": "ChIJgy-zmodbXz4RH3pev6H4V9E",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 49
+    },
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2796008,
+                "lng": 55.3518006
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28098522989272,
+                    "lng": 55.35320592989272
+                },
+                "southwest": {
+                    "lat": 25.27828557010728,
+                    "lng": 55.35050627010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "c2e62b6f1df9293007e84259aac557bb6fa209cd",
+        "name": "Star One restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2320,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115092703311628630484/photos\">sakkaf vattekkad</a>"
+                ],
+                "photo_reference": "CmRaAAAA_B3kAUg62N9Acl-Obrd6JxkK1HKFlhGATZC0sqGIP4vDcqgUoxpraK3I_yO5bZMiYN5BLPoQ-SpQdmV0DEEb60hxn73zjIIDpoyYXgdKKU1b1MoKnG9vZrsLS5XCnWfOEhAfcXWZMRiPuikW_ymYeMRRGhTJd5lcLG2g6vxqi_xmHBj5s4XZ9Q",
+                "width": 3088
+            }
+        ],
+        "place_id": "ChIJFRgTcy5dXz4R3vuhAKaS-zA",
+        "plus_code": {
+            "compound_code": "79H2+RP Dubai",
+            "global_code": "7HQQ79H2+RP"
+        },
+        "rating": 3.9,
+        "reference": "ChIJFRgTcy5dXz4R3vuhAKaS-zA",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 61
+    },
+    {
+        "formatted_address": "104 106th St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2970748,
+                "lng": 55.3524846
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29853252989272,
+                    "lng": 55.35380797989271
+                },
+                "southwest": {
+                    "lat": 25.29583287010728,
+                    "lng": 55.35110832010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "76003d92ec8d48e0728a580dd6e7f5668a82f39d",
+        "name": "Community Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102203556878224942488/photos\">Mrs. CH</a>"
+                ],
+                "photo_reference": "CmRaAAAAHPIJEVov1kERZx7-4D6BeGpD0oVUUmD-vYynvPKn7k5DmZtHvAr4zmQ-iULAdp56VR7kP7cuGLA9NbKp-yglTzfH5V65B2U1WQ9VgsYBqqVI3Qf0PUN8BWuM0anf19S6EhApxxH7Gr_aHNz_za84MWPEGhQjfI4EtpbY3538za-ni7jf0-b1Tg",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJS0ax0YNcXz4R0uS2V_wUmzk",
+        "plus_code": {
+            "compound_code": "79W2+RX Dubai",
+            "global_code": "7HQQ79W2+RX"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJS0ax0YNcXz4R0uS2V_wUmzk",
+        "types": [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 240
+    },
+    {
+        "formatted_address": "7 A St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2871931,
+                "lng": 55.3696806
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28845272989272,
+                    "lng": 55.37096372989272
+                },
+                "southwest": {
+                    "lat": 25.28575307010728,
+                    "lng": 55.36826407010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "d75ad06845c6ae109d672a0eb2db8bac42c8f9ff",
+        "name": "Shahran Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105502429695289965843/photos\">Hammad Qasim</a>"
+                ],
+                "photo_reference": "CmRaAAAAIERjAjRktdiV6it7dw_aXCz6fclFEIbhAZnWfav-TBKhbeMcX_T1YeyP7rrqs9BkTEQYMmkMNKvTJ06f0lt0G950vU3O4dbNUbEApDjpQQ6f2UFSNZF_tYE4Rlyt8hghEhB2_skeVbrQEcDdE7IV4eO1GhTgUCt0jfYbljpauYBoo4lTqkw0FA",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJf1O0KWZcXz4RWsGrz-KmU-o",
+        "plus_code": {
+            "compound_code": "79P9+VV Dubai",
+            "global_code": "7HQQ79P9+VV"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJf1O0KWZcXz4RWsGrz-KmU-o",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 914
+    },
+    {
+        "formatted_address": "2 Baghdad Street - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2872013,
+                "lng": 55.36937039999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28852287989272,
+                    "lng": 55.37069932989272
+                },
+                "southwest": {
+                    "lat": 25.28582322010728,
+                    "lng": 55.36799967010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "e99793b0d5c962a2d7f3c90aaba18c4a648544b3",
+        "name": "مطعم وردة الشام",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3264,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102275050553022257334/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAA2-HdWyuxmjF6F5JMLb9hkBVRid6NkujKwvn308kYb_t_SjiF5NThJb81RUyT9XYlBcdlkYc-Kvu7nW_Bx0uEBFPk9mxl7clPSITB2JtuKG6CnjfKMR7OdbAwW7K-8VCVEhC1l6kGYvMVf1lcOPUnHJygGhQgDTH8Hm6IjRrAkeA-0mD28jWj2A",
+                "width": 2448
+            }
+        ],
+        "place_id": "ChIJvT4PJGZcXz4RcmbtedL69dc",
+        "plus_code": {
+            "compound_code": "79P9+VP Dubai",
+            "global_code": "7HQQ79P9+VP"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJvT4PJGZcXz4RcmbtedL69dc",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 151
+    },
+    {
+        "formatted_address": "Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3027542,
+                "lng": 55.3743046
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30407572989272,
+                    "lng": 55.37575382989272
+                },
+                "southwest": {
+                    "lat": 25.30137607010728,
+                    "lng": 55.37305417010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "4e0ba82398eb06accbe90ee21890d4ddedef9f72",
+        "name": "Arabian Taste Resurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111069164740375280631/photos\">hilary sang</a>"
+                ],
+                "photo_reference": "CmRaAAAAOGu6Vz5CQoGj_hB-OR5aBr9wXwRfzNi1o95dN4V4AwbnFJsS1IDtAfNyE30y-hoL6MrnwA_5Nckb7DybpbmJ2QlKrCpFBJ9hhNKP-Re9qJQKJl8HbgXK-ConnFr9TpFsEhBNl5ii9YQ3U5c-bQqkOU_cGhSCTfUkkU1RJrp6uYExpXA6tVHQsg",
+                "width": 2368
+            }
+        ],
+        "place_id": "ChIJXecxjnZcXz4RJIABjBjBZN0",
+        "plus_code": {
+            "compound_code": "893F+4P Sharjah",
+            "global_code": "7HQQ893F+4P"
+        },
+        "price_level": 2,
+        "rating": 3.7,
+        "reference": "ChIJXecxjnZcXz4RJIABjBjBZN0",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 77
+    },
+    {
+        "formatted_address": "10 5th St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2798382,
+                "lng": 55.3639889
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28123492989273,
+                    "lng": 55.36537257989271
+                },
+                "southwest": {
+                    "lat": 25.27853527010728,
+                    "lng": 55.36267292010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "9481d99edc30d757ed7967c4a92a4524b6c62523",
+        "name": "Grill Hut Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112959959975249673784/photos\">farhan khan</a>"
+                ],
+                "photo_reference": "CmRaAAAAWirb7sYpkcSWVDC2xw_nt4OHBzG2IGK9_1JrAW1gBPagNrDtLU3w4CH3kNmselzKJhBGcAygiPZ1Y5frMSpnsfu9JZ5aE7rwKLhWW8EJ4_-cJm_XKlD8KZ18fHS5VCXVEhCsJnB442k0efMV3Pgmcp5AGhQ0TsA2Y8AzA6b0W__beIyudTNI4g",
+                "width": 1960
+            }
+        ],
+        "place_id": "ChIJ2TyxgV5cXz4RSlzlKp-oLyw",
+        "plus_code": {
+            "compound_code": "79H7+WH Dubai",
+            "global_code": "7HQQ79H7+WH"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJ2TyxgV5cXz4RSlzlKp-oLyw",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 486
+    },
+    {
+        "formatted_address": "Al Doha St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2802432,
+                "lng": 55.3512719
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28158692989273,
+                    "lng": 55.35262852989272
+                },
+                "southwest": {
+                    "lat": 25.27888727010728,
+                    "lng": 55.34992887010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "c359a0ae49f6077e2ffd12c6658987a9fde88ca6",
+        "name": "Bangkok Town Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3174,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105334736606326070807/photos\">5star uae</a>"
+                ],
+                "photo_reference": "CmRaAAAAZajhhGNmJ8Ax7eqGNutQhZNIDiYUSRTBukBUGJfICBNkywC-dOwrUvZzguHc99zmDk9sh9ewbaG64GwhpdjTYf2aGMTmjX_vptqY81h8YiDFSMnEVIlzgtWTdxtNbzQdEhDeKuHXAUcGKA5hvqv7RjkcGhS_lXoLb2J9gHInefjsiuH4IT06Zg",
+                "width": 3174
+            }
+        ],
+        "place_id": "ChIJWYAzwoxcXz4RMuC8vQAPRlM",
+        "plus_code": {
+            "compound_code": "79J2+3G Dubai",
+            "global_code": "7HQQ79J2+3G"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJWYAzwoxcXz4RMuC8vQAPRlM",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 133
+    },
+    {
+        "formatted_address": "Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3033853,
+                "lng": 55.3717972
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30476522989272,
+                    "lng": 55.37312917989272
+                },
+                "southwest": {
+                    "lat": 25.30206557010728,
+                    "lng": 55.37042952010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "7536d42dd265cc733bd9e0da3060709cd67459a0",
+        "name": "Hi-Way Fast Food Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102984582626241604415/photos\">M I D</a>"
+                ],
+                "photo_reference": "CmRaAAAAhwWbzGrxIySXEwMiJ12rHPNzn1ArnXpRLJTAlyBX4kpTNYFF5faV_9ljyvzrqhrKhdAA9vzQxHzJRqGYiGaYn2Se2PFmbSVDSmcOOdlKt3s110PnSfCmP6hHYF1v7QCvEhCC0ilZwUmBkHuMF-vW5rO4GhSyF5so0Qlpat-tepYmS2rW__P3Ag",
+                "width": 3120
+            }
+        ],
+        "place_id": "ChIJO9zasXdcXz4RcDCzPmwRQzE",
+        "plus_code": {
+            "compound_code": "893C+9P Sharjah",
+            "global_code": "7HQQ893C+9P"
+        },
+        "price_level": 2,
+        "rating": 3.8,
+        "reference": "ChIJO9zasXdcXz4RcDCzPmwRQzE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 182
+    },
+    {
+        "formatted_address": "Al Safa Tower behind Al Qantarah Restaurant near Al Nahda Park - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3020987,
+                "lng": 55.38021570000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30339787989272,
+                    "lng": 55.38159717989272
+                },
+                "southwest": {
+                    "lat": 25.30069822010728,
+                    "lng": 55.37889752010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "e8f272e6dd390ce47dd09396adfc3d00a5e79682",
+        "name": "iCook Asian Restaurant & Catering",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1840,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104395102169682434132/photos\">Ruggedcat 86</a>"
+                ],
+                "photo_reference": "CmRaAAAAB-arxlF9qdL2_3JxeoRPGvuTomIlmfKx6v_yOmiwv1478MkUgm55FoJDMr5sqwDw1JwNSTO5kqEk26JBRzz70DWC0JiQKPSjFUeLlmixbKMEbfQ7epQ71ak6OCKlC8rQEhBNf1KcjimUjlVLUn4-qQq-GhRD3ce8XL3tYr763-yZDWfUmtmzZQ",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJ6-wQV3NcXz4RqwRAXIZHpTU",
+        "plus_code": {
+            "compound_code": "892J+R3 Sharjah",
+            "global_code": "7HQQ892J+R3"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJ6-wQV3NcXz4RqwRAXIZHpTU",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 234
+    },
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2968444,
+                "lng": 55.3680151
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29825407989272,
+                    "lng": 55.36937387989272
+                },
+                "southwest": {
+                    "lat": 25.29555442010728,
+                    "lng": 55.36667422010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "ecc19392f685bf0a1485becf752c5abda4968f60",
+        "name": "Abad Plaza Restaurant & Cafeteria",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1040,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105466004601490876904/photos\">Nishad Bukhari</a>"
+                ],
+                "photo_reference": "CmRaAAAAG-GT-7mRbdOwsp-FcdWwAcZ41kUzqjUXU0ChLvcQAKc6cwHdZY2waYv-dS7UQi0YIUjftoMiHboD3p_GFAhvI-AcbuA3VA-VmcC8rDTCYj0NH8LzC9QafjIxPhWB04WqEhCG0hqRFlMQ0ZVSkk9mYRTkGhTO4NY9do360eLo3T6Wvj26UX8NuQ",
+                "width": 520
+            }
+        ],
+        "place_id": "ChIJfZsRi3pcXz4RK3J6E19t494",
+        "plus_code": {
+            "compound_code": "79W9+P6 Dubai",
+            "global_code": "7HQQ79W9+P6"
+        },
+        "rating": 3.9,
+        "reference": "ChIJfZsRi3pcXz4RK3J6E19t494",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 133
+    },
+    {
+        "formatted_address": "G floor,Al Shaali Building,Al Ithihad Road,Hor Al Anz,Near Al Mulla Plaza - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2804547,
+                "lng": 55.35411269999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28190202989272,
+                    "lng": 55.35557222989273
+                },
+                "southwest": {
+                    "lat": 25.27920237010728,
+                    "lng": 55.35287257010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "5c86010cfd501e249026fb3c7f8f7cb0e7762970",
+        "name": "Al Marhabani Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109404298308509440982/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRZAAAAEPpZE-uEJhYrABilkp27S-sv5imSt2aheLUzkl9xF11Hznwi8IqcoBBHBbt_b3HKZ6zMe6l0_9mh3O2TUeM8CkN4prbgLovb479J7kZJXFXCGRk3zvzKMMksyz-32R9oEhCQ_Um21TxZY3G6cxrK5sw_GhSJy7SbsGQtCjQ2M1aYXwbjTHo4tg",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJ2_TvSYtcXz4Rz7UbwKvrJG0",
+        "plus_code": {
+            "compound_code": "79J3+5J Dubai",
+            "global_code": "7HQQ79J3+5J"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ2_TvSYtcXz4Rz7UbwKvrJG0",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 538
+    },
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2802329,
+                "lng": 55.3531035
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28155827989272,
+                    "lng": 55.35448102989272
+                },
+                "southwest": {
+                    "lat": 25.27885862010728,
+                    "lng": 55.35178137010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "42cd61c31a47f02ad5c761aac1475deb6fa82c01",
+        "name": "Zaid Alammor",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1440,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110808745780485260990/photos\">Mohamed Bahaa</a>"
+                ],
+                "photo_reference": "CmRaAAAA4qJ5Rl1AvJZy61pTP_7mcWugRNv8X2rm3nJ4cQyb_s-mlG-LhdJi3bp62hj3qLYeKjv0DVK9Xe2a_-BhVuj-RhtXLVwEJ9fYkr9VTZQcAFqXVEQEhxTTHWjEULo-V-NTEhD_-9a31uLSGrwmKdBhPRNGGhS4HGfugsXWFnMTVzd6ks7dspe1ng",
+                "width": 2560
+            }
+        ],
+        "place_id": "ChIJbWslWItcXz4RKBafSU_KNlU",
+        "plus_code": {
+            "compound_code": "79J3+36 Dubai",
+            "global_code": "7HQQ79J3+36"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJbWslWItcXz4RKBafSU_KNlU",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 469
+    },
+    {
+        "formatted_address": "Ansar Mall - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.302813,
+                "lng": 55.36889
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30425497989272,
+                    "lng": 55.37018832989272
+                },
+                "southwest": {
+                    "lat": 25.30155532010727,
+                    "lng": 55.36748867010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "a6865dff7e196b43a3eac58d13002637a3b2274f",
+        "name": "Russian Traditions Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 912,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108643796265822738951/photos\">Russian Traditions Restaurant</a>"
+                ],
+                "photo_reference": "CmRaAAAAfAyofQqeQjHnduUFgO5n2Q3n08_KR1gpa-Oj5YLUTiFdH-KnIBCt3i8FF--DQ65n7SUdq5BM526xe53hGTSzVOdficEAoXntvmAQd_uULUfH3cPoSxBGaMk8_KK28XhnEhABUVjnURV2bq3N3WBH3jy0GhRZ3neyXMojkl3gcwy6cR0-uHEUZA",
+                "width": 590
+            }
+        ],
+        "place_id": "ChIJ6TXRJHhcXz4RpWnarkc-ynQ",
+        "plus_code": {
+            "compound_code": "8939+4H Sharjah",
+            "global_code": "7HQQ8939+4H"
+        },
+        "rating": 3.9,
+        "reference": "ChIJ6TXRJHhcXz4RpWnarkc-ynQ",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 10
+    },
+    {
+        "formatted_address": "Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3031623,
+                "lng": 55.369418
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30455977989272,
+                    "lng": 55.37074187989272
+                },
+                "southwest": {
+                    "lat": 25.30186012010727,
+                    "lng": 55.36804222010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "c05d9ede0c6bc3dd3c2d0dc0606a5ef2a37408c3",
+        "name": "Taza",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104967624301393110354/photos\">Avaz Ergashev</a>"
+                ],
+                "photo_reference": "CmRaAAAAr_3V4El-3XDvOo_ntsJWzdAq6StySa_PU3kMnt_4H1CvBH0E0qpmYmdZFQOPUBWKwGPNJYKkU0Ye9xHpIgr9Q1oomz1ZMkJw9nxio3M0I2FigbwEznZSGTvQvMwXKbaxEhAfxVLSQ1SxM8ykVcHj9KP2GhRpKYcp71QVJT1gkMj7jEmN524MyQ",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJ7WkMIXhcXz4RyzqFCdZgSYQ",
+        "plus_code": {
+            "compound_code": "8939+7Q Sharjah",
+            "global_code": "7HQQ8939+7Q"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ7WkMIXhcXz4RyzqFCdZgSYQ",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 477
+    },
+    {
+        "formatted_address": "Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3012255,
+                "lng": 55.3691873
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30268817989272,
+                    "lng": 55.37047157989273
+                },
+                "southwest": {
+                    "lat": 25.29998852010728,
+                    "lng": 55.36777192010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "e8fcfa13f1add7f0ff3d9ff7a9d2673ef9906640",
+        "name": "Al Nahda Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 870,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102931745028936034584/photos\">VICAS</a>"
+                ],
+                "photo_reference": "CmRaAAAA4bjNJz775Ip1qI7y1VF2K3FATz6kQZbouFF_-QxlvwlbKyg5KS28x2DLxS-0zV1_-fqFDDDI5zVWy6_AqwjTFdCGBE8SgHaNOnHCUVPq099qqVCraZBUqem2XUieU599EhA06fzNdG98xP4BT7uudDtbGhRXZEGjGx1qHi_eklQvIqt0X--duA",
+                "width": 1464
+            }
+        ],
+        "place_id": "ChIJy2Z2njRdXz4RzpQEZAOj1b0",
+        "plus_code": {
+            "compound_code": "8929+FM Sharjah",
+            "global_code": "7HQQ8929+FM"
+        },
+        "rating": 4.2,
+        "reference": "ChIJy2Z2njRdXz4RzpQEZAOj1b0",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 12
+    },
+    {
+        "formatted_address": "98 Cairo Rd - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2908296,
+                "lng": 55.3536
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29220457989272,
+                    "lng": 55.35497082989273
+                },
+                "southwest": {
+                    "lat": 25.28950492010728,
+                    "lng": 55.35227117010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "c15f1d6536b0337f94250fddb32dee5a3ba841e8",
+        "name": "Alvand Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110902991825123325187/photos\">Fadi Kaddoura</a>"
+                ],
+                "photo_reference": "CmRaAAAAUi5O6K5aPNo7f_E227eIuS9Gu3L7xxSWdsHcwi9FAv2TqJ7W_QsQNY2a3LEkjan286nUcf2lx17dSN8c5HWG2ibKWPfvfHBIIEERlbTAKtBZAhnPPa9nNOnJwzP6Y31sEhBXXAWuiTXkMkCWUsXxt8BkGhSDL7DEwLc1nTn-EymzywV5Q0B-ZQ",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJt0oIHIZcXz4R7lQW5X4d6oI",
+        "plus_code": {
+            "compound_code": "79R3+8C Dubai",
+            "global_code": "7HQQ79R3+8C"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJt0oIHIZcXz4R7lQW5X4d6oI",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 53
+    },
+    {
+        "formatted_address": "Al Wuheida Street - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2837452,
+                "lng": 55.3534907
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28506062989272,
+                    "lng": 55.35480292989272
+                },
+                "southwest": {
+                    "lat": 25.28236097010728,
+                    "lng": 55.35210327010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "46713f28db17b55e859988b25f4eec165069394b",
+        "name": "Khaimat Al Mandi Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105975065778472478592/photos\">tariq ibrahim</a>"
+                ],
+                "photo_reference": "CmRaAAAARDhQeUS2j7bb9RU8pGyd4hukT858TIVIlWWWs1i0bshXkT3lLPGjpMMiKJl6ZQEJVisoTQ9B66pzIed4O5QFR_QDDS3SzhK2ThFnA7QDYpCU71Z4GO1PnpL3yxBYMKX-EhD18mNdO5vI5ZJFMSXo_XXVGhT6fDwD-0NfUBDjxJPino6IA8U3oQ",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJRYvX_opcXz4RqJee3qGm7uk",
+        "plus_code": {
+            "compound_code": "79M3+F9 Dubai",
+            "global_code": "7HQQ79M3+F9"
+        },
+        "rating": 4.3,
+        "reference": "ChIJRYvX_opcXz4RqJee3qGm7uk",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 305
+    },
+    {
+        "formatted_address": "28 24th St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2804085,
+                "lng": 55.351695
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28182097989272,
+                    "lng": 55.35297502989272
+                },
+                "southwest": {
+                    "lat": 25.27912132010728,
+                    "lng": 55.35027537010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "4dccbc41c38bfd55f4c92066cbad5d580d6c8eb6",
+        "name": "Al Nadeg Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106165388197257527580/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAMcNgB-QU5Wb4RSkw8Xn41YDv4cdnMJrF4q_iHmKfjn9hHFZcHrILSZnlSk-N7BDhHC3E_Wlc-RV1J3qGNO3lQnUilXI2xUfx03RO0l0bOzY9QJ95D8qqhtNUbVVKJ9HFEhAZrfKq_AKjf3SJF-AhSP37GhSN2TEOaC8crZQt3ePpZ7nfnahKcw",
+                "width": 1960
+            }
+        ],
+        "place_id": "ChIJJ9CLv4xcXz4R_g7Vqn6GSWk",
+        "plus_code": {
+            "compound_code": "79J2+5M Dubai",
+            "global_code": "7HQQ79J2+5M"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJJ9CLv4xcXz4R_g7Vqn6GSWk",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 444
+    },
+    {
+        "formatted_address": "28th St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2800765,
+                "lng": 55.35309410000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28142752989272,
+                    "lng": 55.35444257989272
+                },
+                "southwest": {
+                    "lat": 25.27872787010728,
+                    "lng": 55.35174292010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "ea40f078edd3a2f380e0fda592a0f933a5a2a82b",
+        "name": "Al Reef Al Yamani Restaurant & Bakers",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2320,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115092703311628630484/photos\">sakkaf vattekkad</a>"
+                ],
+                "photo_reference": "CmRaAAAAopl05JoQcPWW7aATdHeDWjr64qh1m3dhbsXPzbkNUTZ89xwpBKdZ-Re5aF-VBgBcPTfpnEv8Z1uoJChZ1z3uFltHUYT50i1oGe4YQTYyXsX3-w73eKAaB4ObFmijsOU3EhB2xjlFLPZA4NPWPQcDc_gvGhSladANztiHGICOg6obrGq4Sj1Y_Q",
+                "width": 3088
+            }
+        ],
+        "place_id": "ChIJHd3bqYxcXz4RYsuJpzstZJY",
+        "plus_code": {
+            "compound_code": "79J3+26 Dubai",
+            "global_code": "7HQQ79J3+26"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJHd3bqYxcXz4RYsuJpzstZJY",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 133
+    },
+    {
+        "formatted_address": "Amman St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2972433,
+                "lng": 55.3780983
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29866182989272,
+                    "lng": 55.37941687989272
+                },
+                "southwest": {
+                    "lat": 25.29596217010728,
+                    "lng": 55.37671722010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "e38f82da0cc98aaf8303e9993d8aa633e5021776",
+        "name": "Noor Al Mandi Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4320,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100024276169239525764/photos\">salman qazalbash</a>"
+                ],
+                "photo_reference": "CmRaAAAANr7kIrvvutyeUqZX_3U4t0Q9K8Xv4_mhWCp41ieYz358MBGK1fp-pV8JAxb4nk35g7yg89PfnG3Ce-8xhunOjgORHk-Tq041kpW-LiiMeVwel8PaXixe4ffT8reQX3YkEhCyrXklWPdTlZocZBXgXEdaGhTHRuvHtR9suM3zPJayC3vRBIG-7Q",
+                "width": 2432
+            }
+        ],
+        "place_id": "ChIJrbLNhnJcXz4Rw8W_g3_qsrk",
+        "plus_code": {
+            "compound_code": "79WH+V6 Dubai",
+            "global_code": "7HQQ79WH+V6"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJrbLNhnJcXz4Rw8W_g3_qsrk",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 577
+    },
+    {
+        "formatted_address": "24 B St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2800591,
+                "lng": 55.3508384
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28136467989272,
+                    "lng": 55.35223752989272
+                },
+                "southwest": {
+                    "lat": 25.27866502010728,
+                    "lng": 55.34953787010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "44c7c29370b2e8249cc906897fb6feb96a4bc6cb",
+        "name": "Al Fakher Mandi",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118112432151549101322/photos\">Al Fakher Mandi &amp; Traditional Foods</a>"
+                ],
+                "photo_reference": "CmRaAAAAwgMxUr7sHeBgwwxkD8nKREHuy5TDk0e-APGpk-GdidkIZNoAORDBl8CIA9b5Y52PoQScbudYTxGyvH2VS3COhsxEqfaQP9WIy5u-tErk-E3LGBKO_zPcVpIOcCwxMK1OEhCjfrJgiJG2ZAjZegAA0pZMGhRvnLgS9or6UsHMiIjJOKE8rU-R_g",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJuYrR4IxcXz4RtJC_8uQ5L3k",
+        "plus_code": {
+            "compound_code": "79J2+28 Dubai",
+            "global_code": "7HQQ79J2+28"
+        },
+        "rating": 4,
+        "reference": "ChIJuYrR4IxcXz4RtJC_8uQ5L3k",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 178
+    },
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2931029,
+                "lng": 55.3695304
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29441942989272,
+                    "lng": 55.37084857989272
+                },
+                "southwest": {
+                    "lat": 25.29171977010728,
+                    "lng": 55.36814892010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "2d096568fe702c3c54305464c813c47355a4f3c8",
+        "name": "Food Village Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2322,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101066496725413355474/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAkmbungW97jHAFIjKAqY1W7rJbuxAT7GSUgVKQptp5MXylW7JHxzboIbaaabIQkBKgTotMY3-QEjTwzSgFgV-vJm_0hBr_jTzKYy6qlsihO4bdmkJlMYdmI28rGyvNGsSEhCZG-Aci1sF25TD7fzA3BoqGhSIVYk7y9wvLIVKF6KSt_aPYmgd7A",
+                "width": 4128
+            }
+        ],
+        "place_id": "ChIJp810YGVcXz4Rt8au3PlWcrI",
+        "plus_code": {
+            "compound_code": "79V9+6R Dubai",
+            "global_code": "7HQQ79V9+6R"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJp810YGVcXz4Rt8au3PlWcrI",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 442
+    },
+    {
+        "formatted_address": "جیت تاور - Al Nahda St - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.2919567,
+                "lng": 55.365513
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29308417989272,
+                    "lng": 55.36709582989273
+                },
+                "southwest": {
+                    "lat": 25.29038452010728,
+                    "lng": 55.36439617010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "96021b0d1f008ce11433262c73d86a6be1374792",
+        "name": "Bait Al Arabi Restaurant مطعم البيت العربی",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105060279583719283757/photos\">Mohammad Saleem</a>"
+                ],
+                "photo_reference": "CmRaAAAAlIzA-9C5emkRnRekaA1PfGxkUInjPOvqazOioyeFwHQRw9H9jvf_l3HCoPh9CWvc-VMBQak_dNL9dwMFgtWGfZ2K4IMCyYnoNxZ6WNXPchkrXIeLmfTvabUXp9QMKurzEhD550etFSp-xsjLMaFLBhIAGhTPFvJ3ZjO-dJLMgt6LLHtbDK_GPA",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJXxEH33NcXz4Ru8MlOuSEa9A",
+        "plus_code": {
+            "compound_code": "79R8+Q6 Sharjah",
+            "global_code": "7HQQ79R8+Q6"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJXxEH33NcXz4Ru8MlOuSEa9A",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 187
+    },
+    {
+        "formatted_address": "Near Ansar mall - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3013978,
+                "lng": 55.36600259999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30260667989272,
+                    "lng": 55.36774037989272
+                },
+                "southwest": {
+                    "lat": 25.29990702010728,
+                    "lng": 55.36504072010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "d11f924f881351e4207eb6d167369189ba1f25cf",
+        "name": "Al Ghaar Restaurant-North Karnataka",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100964636545917660796/photos\">100964636545917660796</a>"
+                ],
+                "photo_reference": "CmRaAAAAFFZdTMBxaaiVhs17attdicTGXDwVc6y49U_rVxxBJ3ifwZMhUVSoV8BYW0Ji11Ko8kIysZMtf7cFS5wCFtGVGrZ-phBgyqDUokmLWhtLcRsS87liI34M0p7k96kGq53aEhCn2d87F72hJe45jvCQ2NnnGhRuDdhV6GgI78L_9xAPfO95Ln47sw",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJE02jeGBdXz4RnTPbyxWEfDQ",
+        "plus_code": {
+            "compound_code": "8928+HC Sharjah",
+            "global_code": "7HQQ8928+HC"
+        },
+        "rating": 4.7,
+        "reference": "ChIJE02jeGBdXz4RnTPbyxWEfDQ",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 153
+    },
+    {
+        "formatted_address": "Al Ittihad Rd - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2801838,
+                "lng": 55.3542092
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28152467989272,
+                    "lng": 55.35556847989273
+                },
+                "southwest": {
+                    "lat": 25.27882502010728,
+                    "lng": 55.35286882010729
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "34b08e85336a681cc204f445340e6f9fcb98ba39",
+        "name": "AlKhettar Catering",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2322,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114649960428022055323/photos\">Mohamed Albalghouni</a>"
+                ],
+                "photo_reference": "CmRaAAAAi291sWzfmoqPK6kPwXsvFC02g856RGcyuO1kCjj8OOoNKkMRUf1SSUE3yWbecbATARPG_8Pc7GtCfwvNFNqXgsJMyt05pw0I1260HmrT5ul5jKjKgxZ2c4PjOfK5RnBHEhDzGxTIIFljMNrrDiOxcovBGhSqgxoprPIEkRpehc-3djxC7neB9w",
+                "width": 4128
+            }
+        ],
+        "place_id": "ChIJi7CtTotcXz4RWrtdm-ck8ww",
+        "plus_code": {
+            "compound_code": "79J3+3M Dubai",
+            "global_code": "7HQQ79J3+3M"
+        },
+        "rating": 4,
+        "reference": "ChIJi7CtTotcXz4RWrtdm-ck8ww",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 72
+    },
+    {
+        "formatted_address": "Al Nahda St - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.29847,
+                "lng": 55.372263
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29974922989272,
+                    "lng": 55.37361867989272
+                },
+                "southwest": {
+                    "lat": 25.29704957010728,
+                    "lng": 55.37091902010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "eaad9cd1d0b417573b24152109cbbaf1d73ab99e",
+        "name": "Zaafaran Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100426750059317833914/photos\">Zaafaran Restaurant</a>"
+                ],
+                "photo_reference": "CmRaAAAA9Yo2PmoxhLcizdLgyZFGqm4gp84OzLZDmQDc7nbUxFEqu0TUIjv2uScJZ9Pjh90d3OYfBsOhYmH6nGVBUiOU1yz5Q2of69JHY41_lvm3BdpS9Ak9C0QRsRsddbR-3wshEhBFiodjYqtflPPQJtw-yL4uGhRYWVyIfCk47TgmbRYaeb2L35VNuA",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ62WM5nBcXz4RsTIZhurZrSY",
+        "plus_code": {
+            "compound_code": "79XC+9W Sharjah",
+            "global_code": "7HQQ79XC+9W"
+        },
+        "rating": 3.9,
+        "reference": "ChIJ62WM5nBcXz4RsTIZhurZrSY",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 28
+    },
+    {
+        "formatted_address": "7 A St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2872007,
+                "lng": 55.3692055
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28853712989272,
+                    "lng": 55.37054547989271
+                },
+                "southwest": {
+                    "lat": 25.28583747010728,
+                    "lng": 55.36784582010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "b379c99183a1b85275aa0ed59977fe39e9806bce",
+        "name": "مطعم ليالي فاس",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105227690513766091692/photos\">Sabah Irani</a>"
+                ],
+                "photo_reference": "CmRaAAAAY9NzaeNeujke9drlvd1GV4ugWcQvKrVulfdV4dFTWfbxhClrNS9GlzFS182DUKqtwK3FdghRm2vT0VjuyCYTa0X_Nkme2Lzo_xQYMcG-5oO5ExdUJ7_9k3_7D1wQxK60EhCPOSUcqzBtPK_5rtIN5PjuGhQOwPabnXKVfEt55hjl6iA3vzv_7w",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJpaM2WQldXz4R1EAVujbfUnI",
+        "plus_code": {
+            "compound_code": "79P9+VM Dubai",
+            "global_code": "7HQQ79P9+VM"
+        },
+        "rating": 3.9,
+        "reference": "ChIJpaM2WQldXz4R1EAVujbfUnI",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 12
+    },
+    {
+        "formatted_address": "shop 3 - Baghdad Street - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.283618,
+                "lng": 55.3738243
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28498597989273,
+                    "lng": 55.37518757989272
+                },
+                "southwest": {
+                    "lat": 25.28228632010728,
+                    "lng": 55.37248792010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "636ed4f23bbefec966c297dcddefd29f90691815",
+        "name": "Shawerma & Furun Restaurant شاورما وفرن",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100878047492939121481/photos\">Me UAE</a>"
+                ],
+                "photo_reference": "CmRaAAAA7H3hx-gHvv1q-w-zrePD4FgsRKHI1s5oZL3Yg14N_WjSmrX09ykuEQ3qxJcBvwgxyOCcOl05RLCZdhrwnQUIM7_8Zedidh-oUJUOSb4CgLK18a4zeAEZeaB3yplTNHM0EhDgCY-wIgTuZnWNeGXM4P0GGhQdTWRccE8OL4PGXe7EQ84kK0Qozg",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJxQ1P_HheXz4ROMWqRTcyhdQ",
+        "plus_code": {
+            "compound_code": "79MF+CG Dubai",
+            "global_code": "7HQQ79MF+CG"
+        },
+        "rating": 4.2,
+        "reference": "ChIJxQ1P_HheXz4ROMWqRTcyhdQ",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 204
+    },
+    {
+        "formatted_address": "42 13b St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2805384,
+                "lng": 55.3527766
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28194462989272,
+                    "lng": 55.35419442989272
+                },
+                "southwest": {
+                    "lat": 25.27924497010728,
+                    "lng": 55.35149477010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "0d345c1bb6559281e2bb4fca9edddececfd61a1f",
+        "name": "Al Prince Al Amoor Restaurant - مطعم البرنس الامور",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 255,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116419323965807882985/photos\">Mostafa Amer</a>"
+                ],
+                "photo_reference": "CmRaAAAA18TFMIrTC6U_wzoPzLiuDhj5Y8W1RzJ9mhRYmhKSTMNoGnC2X5yXWnJbgrjCazMqAH1iv5ZLQt5joVOdoa3ZmuFb7R_wr68WXVxNBVVOsv6nj0M8aLYTKpRwjjuuTpO_EhByWtWfgxp_xbqM2bkn9rMEGhSOdSSAn61Xt8rS2qF5hotUBdLhAg",
+                "width": 597
+            }
+        ],
+        "place_id": "ChIJze6goYxcXz4Rt6cI4kbA6FU",
+        "plus_code": {
+            "compound_code": "79J3+64 Dubai",
+            "global_code": "7HQQ79J3+64"
+        },
+        "rating": 4.2,
+        "reference": "ChIJze6goYxcXz4Rt6cI4kbA6FU",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 283
+    },
+    {
+        "formatted_address": "Al Ittihad St - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3053635,
+                "lng": 55.3742663
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30652232989272,
+                    "lng": 55.37577982989271
+                },
+                "southwest": {
+                    "lat": 25.30382267010728,
+                    "lng": 55.37308017010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "8f62679864a69aff2f373c21f10ee1a245a66c1f",
+        "name": "Chicken Tikka",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3840,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112234829277763486934/photos\">Mustafa Hanif</a>"
+                ],
+                "photo_reference": "CmRaAAAA0C8ecwnDNu9NyQJTfCHW-YS9eyOYVAEk9ydlprlUPWF_f3MbVrsp_ZryuMDhqy5t5wrhxtPrPlOYDU6-yvOSy4R7mE7K5jxSq08VwDaykasT2z6OrS7soMPLunoPT4t4EhAuWPZ3WriNOiv6IK18ZRHhGhQixVFV33TIsThqBAthjuQevWR7_w",
+                "width": 2160
+            }
+        ],
+        "place_id": "ChIJkZhjF3ZcXz4Rs1nd3W0co2A",
+        "plus_code": {
+            "compound_code": "894F+4P Sharjah",
+            "global_code": "7HQQ894F+4P"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJkZhjF3ZcXz4Rs1nd3W0co2A",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 456
+    },
+    {
+        "formatted_address": "Al Nahda St - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.298019,
+                "lng": 55.3747523
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29960522989272,
+                    "lng": 55.37605742989272
+                },
+                "southwest": {
+                    "lat": 25.29690557010728,
+                    "lng": 55.37335777010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "d7edac93b2783c0a9c34b080ffb47cf3c787f3c8",
+        "name": "Vapiano",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101257620426805327168/photos\">Ghanim Alhamli</a>"
+                ],
+                "photo_reference": "CmRaAAAAK5G9ObZ-aVHSLDZNQnDDMWWDAl2vkEYrZjqhvKc6np_gC5Ak-0oUUMw6kuNrS8utQz4hG1VRgEG9aeMjd-_ZqD3HdLIhU2hYJavkZYEYiABU6TpHlKqpLDgX-imMgOUCEhCS3xn9b3-9F8FhERzH2mS_GhRM6a5h6KnT088_W-y4FmLknAOTMQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJe0EggXFcXz4RwxCDIoqzqQU",
+        "plus_code": {
+            "compound_code": "79XF+6W Sharjah",
+            "global_code": "7HQQ79XF+6W"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJe0EggXFcXz4RwxCDIoqzqQU",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 40
+    },
+    {
+        "formatted_address": "7 A St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2876002,
+                "lng": 55.3687978
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28891077989272,
+                    "lng": 55.37011162989272
+                },
+                "southwest": {
+                    "lat": 25.28621112010728,
+                    "lng": 55.36741197010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "37ca796afd49688fee9730306b80a0c5ecaab44f",
+        "name": "Shawerma House",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111096661010410830240/photos\">Shawerma House</a>"
+                ],
+                "photo_reference": "CmRZAAAAufIoVWP3U-HckgdXnSHbbepl9HbSOrgk41onwOSuB3RqzgoX5XYoj0vLwE_w_v0nnBJmtbI3UMqz3-8i40vFpqqf0En1nFNF7zcz2cJ3TvmRCBuF0IlviUXhDHSrCP8MEhBUWPtrx4L2LR9Ty_TOoKx_GhTbUD9EWwqGphyWCaUQ6Sf7ySPrBg",
+                "width": 960
+            }
+        ],
+        "place_id": "ChIJsfedPWZcXz4RRWFnHZMnp0o",
+        "plus_code": {
+            "compound_code": "79Q9+2G Dubai",
+            "global_code": "7HQQ79Q9+2G"
+        },
+        "rating": 3.7,
+        "reference": "ChIJsfedPWZcXz4RRWFnHZMnp0o",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 160
+    },
+    {
+        "formatted_address": "Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3002084,
+                "lng": 55.3795337
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30165712989272,
+                    "lng": 55.38082372989272
+                },
+                "southwest": {
+                    "lat": 25.29895747010728,
+                    "lng": 55.37812407010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "7f8609097dd8ded7764f1642c47fa6c703a8a9fd",
+        "name": "Al shahd restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111943701570277419606/photos\">Rohan Samuel</a>"
+                ],
+                "photo_reference": "CmRaAAAASqIHXb2g7YAehQ4q5wqxE1-_RmPOccZTH4GvN0iwEknjuB4ZoWbqmQL12b73qi1qh6luDnAk8q1H8g5nRBgxwb-FLZUvS1O2x0vDTgnlm3fUFzBLnk4E44d7BICOYXYOEhDSZNRzVkQ7wi4x88_BXqPnGhQlqC1iNHGads7UPMzoH4L6nz8_IA",
+                "width": 2268
+            }
+        ],
+        "place_id": "ChIJ8cQrI3NcXz4RdEiGEvZCST0",
+        "plus_code": {
+            "compound_code": "892H+3R Sharjah",
+            "global_code": "7HQQ892H+3R"
+        },
+        "rating": 3.6,
+        "reference": "ChIJ8cQrI3NcXz4RdEiGEvZCST0",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 35
+    },
+    {
+        "formatted_address": "Al Nahda St - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3007422,
+                "lng": 55.3732694
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30205442989272,
+                    "lng": 55.37464177989272
+                },
+                "southwest": {
+                    "lat": 25.29935477010727,
+                    "lng": 55.37194212010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "fa64a8c44864901b35d8f0196304f28dd460c5c5",
+        "name": "Kukko Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111970480182590459105/photos\">Thaniz Zahran</a>"
+                ],
+                "photo_reference": "CmRaAAAAkgOXfx390mhhkNSbm85KvGEUWV-3320qcMAMumoLr1JH7vU10uhRQ5TZl60ALNaIpK0FwipuE9msk8fpmRX3BCPE_vYyzPghoN1pSpzg23vOahsaDvdhqf1nzx7JQN_4EhA0GcbP6Sw4n5zkULRKXDivGhTLdAG5q2_V8xDsov7Vm4YmBvf71Q",
+                "width": 4560
+            }
+        ],
+        "place_id": "ChIJAQDQz3ZcXz4R7tGlhQ7VrGs",
+        "plus_code": {
+            "compound_code": "892F+78 Sharjah",
+            "global_code": "7HQQ892F+78"
+        },
+        "rating": 3.9,
+        "reference": "ChIJAQDQz3ZcXz4R7tGlhQ7VrGs",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 79
+    },
+    {
+        "formatted_address": "G Floor,Bin Ham Tower,Al Ittihad Rd,Taawun - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3031932,
+                "lng": 55.3648282
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30458617989272,
+                    "lng": 55.36623737989272
+                },
+                "southwest": {
+                    "lat": 25.30188652010728,
+                    "lng": 55.36353772010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "c1f12d3dd2c2c47762e6fdf516c87713e165d894",
+        "name": "Al Bait Al Turkey Rest",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1824,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107387402321529199202/photos\">Hussein Kefel</a>"
+                ],
+                "photo_reference": "CmRZAAAAkKYwHXtOLorDiqQaJ6yiKSQQ-Vg1MGSFTQ5B9txQrA26ZXQZ4zxjvvdw9zDIjwpqFHu19K_k_XRO6q_wtfz8qABUGpKV357vne2g8DG04IOtRDTAQ3bfYn29v3bmTxnGEhCXDOHM6y2wJqrdf7eX3sV7GhThMoCMgk26vleP256laevCAkQiNw",
+                "width": 3648
+            }
+        ],
+        "place_id": "ChIJJyZLrHhcXz4Rk1g0l1wFaac",
+        "plus_code": {
+            "compound_code": "8937+7W Sharjah",
+            "global_code": "7HQQ8937+7W"
+        },
+        "rating": 4.8,
+        "reference": "ChIJJyZLrHhcXz4Rk1g0l1wFaac",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6
+    },
+    {
+        "formatted_address": "36 28th St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2801688,
+                "lng": 55.3532461
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28154202989272,
+                    "lng": 55.35456942989273
+                },
+                "southwest": {
+                    "lat": 25.27884237010728,
+                    "lng": 55.35186977010729
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "823e6ada236304bd912405aa8eab2b608812d288",
+        "name": "Laffah Restaurant Dubai Branch",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108062458854726716231/photos\">Faizan Kazi</a>"
+                ],
+                "photo_reference": "CmRaAAAA5hi4qMu1aV6IZU_X1wKPekjHqE1g5bf1Y4wbGZdFm9ZFPhGagMr3rrcYfGjG1J1K6kxqev4ppTQOzid-aWcwhVI53UkvkQIZ-N6t1HJYWAy5VtiWoqboeHGWlc_i6-95EhD25NO5kHSwoyY-G-3EzejLGhQIENbBO4BPG8nFRjYhP9QFS1PJPQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ640JV4tcXz4Rud1lHZozOsc",
+        "plus_code": {
+            "compound_code": "79J3+37 Dubai",
+            "global_code": "7HQQ79J3+37"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJ640JV4tcXz4Rud1lHZozOsc",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1568
+    },
+    {
+        "formatted_address": "Al Ittihad St - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3027225,
+                "lng": 55.36769229999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30407232989272,
+                    "lng": 55.36904212989271
+                },
+                "southwest": {
+                    "lat": 25.30137267010728,
+                    "lng": 55.36634247010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "55c49e2f43800220cbf842b1dc506bc6f4a663bf",
+        "name": "Jordanian kitchen restaurant and sweets sharjah مطعم وحلويات المطبخ الاردني الشارقة",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105706747602766806676/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAPHyCN9Nhm3xCW4U8ZR90xXV9Qk1AD3J7bgLJbiZPgo4kCdWzRdhTD6ubn5MujHVqzwcr4v7v-yctwDN1_0apb_XYaHRqZq9vz8s_K42QhmS6gyRdyHsXfIcorcuFZ5ToEhA2QdU1BiQ-o8TsfnkX7kmwGhSWBxCDy7sKbqhZE6XIjcT2DsHaBA",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJ82N_l6sFXz4Ru4qdam7p8Ds",
+        "plus_code": {
+            "compound_code": "8939+33 Sharjah",
+            "global_code": "7HQQ8939+33"
+        },
+        "rating": 2.7,
+        "reference": "ChIJ82N_l6sFXz4Ru4qdam7p8Ds",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7
+    },
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2827884,
+                "lng": 55.3511391
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28406037989272,
+                    "lng": 55.35257452989271
+                },
+                "southwest": {
+                    "lat": 25.28136072010728,
+                    "lng": 55.34987487010726
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "cde9e6eaa10e2c70e1f0b5b73add7e0c7fd517b0",
+        "name": "Robyan Seafood Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3264,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111002738142045998125/photos\">Moeed Rais</a>"
+                ],
+                "photo_reference": "CmRaAAAAx85Clbom3fiQ-aWGKsPLmx_eIrEE2NiR5sPYUMhZDe9Cf0stzgxMRLOEyxiLjWDu671-CnP6lTqBnP3pwTru3L07Tu1zSWet_VkjipikxUShq9_eo5Z4dQROQibEyDgaEhBlaOAs-di36WGF8hz2U8MlGhSUk4wYDLU1aJJ49tkOQ-iqALGy6Q",
+                "width": 2448
+            }
+        ],
+        "place_id": "ChIJS6OsR4xcXz4Ru3P1wiyvNKI",
+        "plus_code": {
+            "compound_code": "79M2+4F Dubai",
+            "global_code": "7HQQ79M2+4F"
+        },
+        "rating": 3.6,
+        "reference": "ChIJS6OsR4xcXz4Ru3P1wiyvNKI",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 14
+    },
+    {
+        "formatted_address": "28th St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2801207,
+                "lng": 55.35305049999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28147442989273,
+                    "lng": 55.35439587989271
+                },
+                "southwest": {
+                    "lat": 25.27877477010728,
+                    "lng": 55.35169622010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "c6d8c7c01d068d1b6f40c1730a12618434a47283",
+        "name": "Sahara Star Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100191806981099152292/photos\">Lipin Nambiar</a>"
+                ],
+                "photo_reference": "CmRaAAAA9gJVIJNENIiwGkKpOp0833kHcfhKPZRohhK5Y53KjtdJq0VlrS8WqzqSm0FHPYxiwamFNjcEmWaDWSuLgDz_PHno6RoQU1I3fs_5OozuP4EUPa-AYs69ARXwefQ6aP5AEhDwNMO9lnD88ALL_yfb49QZGhQZpNWmnoYpWwXN_dHvkGLo4CAOBw",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJx8wmqIxcXz4RI9b6jrczowA",
+        "plus_code": {
+            "compound_code": "79J3+26 Dubai",
+            "global_code": "7HQQ79J3+26"
+        },
+        "price_level": 1,
+        "rating": 3.7,
+        "reference": "ChIJx8wmqIxcXz4RI9b6jrczowA",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 27
+    },
+    {
+        "formatted_address": "Second Floor, Sahara Center - Al Nahda St - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.2981442,
+                "lng": 55.3747613
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29967027989272,
+                    "lng": 55.37607782989272
+                },
+                "southwest": {
+                    "lat": 25.29697062010728,
+                    "lng": 55.37337817010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "2bcac09308691ad4ada3eb6bad8e5ae56b6a8f7d",
+        "name": "Tike Taste Of Istanbul Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102136680591079373924/photos\">Saeed Bughazyain</a>"
+                ],
+                "photo_reference": "CmRaAAAAcy3uaz940Rk6irLxHzVGlb2sjmOiAiQk_RrN3rXjNul0RKCJbBMUzR31Kk5M8wFcWGcydgBQDh-rYbVn5fCShQk0XatHAFQBvRYVYbXdedSMkh-hQVRucsPVaccfwfhNEhBUmoMF6jUOpR9Qp17_YYV3GhQSikRe5u89NBljOYzf5vyTWnMm6A",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJUZN3hUldXz4RDKhJSWnkgoQ",
+        "plus_code": {
+            "compound_code": "79XF+7W Sharjah",
+            "global_code": "7HQQ79XF+7W"
+        },
+        "rating": 3.8,
+        "reference": "ChIJUZN3hUldXz4RDKhJSWnkgoQ",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 16
+    },
+    {
+        "formatted_address": "Al Shamsi Building7 A St, Baghdad Street, Al Nahda 2, Opposite to Burhani Masjid - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.286688,
+                "lng": 55.370207
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28802402989272,
+                    "lng": 55.37154717989272
+                },
+                "southwest": {
+                    "lat": 25.28532437010728,
+                    "lng": 55.36884752010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "8d654f66d7c43f01216cbe5439f2d3c6458cd6ef",
+        "name": "Shabaka and Senara Seafood Restaurent",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 450,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103912603790736427859/photos\">مطعم شبكة و صنارة للمأكولات البحرية Shabaka and Senara Seafood Restaurent</a>"
+                ],
+                "photo_reference": "CmRaAAAAPdfJmxgoGnSn8wndceGMFV0MwPJmnk_AEQ1LpL2C4LyZnSKout9A74eqCg49C5AthGIZIhFoWALt5FzAGKmASAe0eFXstsxHfoU0pL-h3fVfO2CzOzBaoRaVRLvQFmREEhBBiSTQ3ZhajaLs269iJm_dGhTXD8Aww2rDPKSyOf7MVJgZJF3RKg",
+                "width": 722
+            }
+        ],
+        "place_id": "ChIJx83DYmhcXz4RZPavLUmExj0",
+        "plus_code": {
+            "compound_code": "79PC+M3 Dubai",
+            "global_code": "7HQQ79PC+M3"
+        },
+        "rating": 4,
+        "reference": "ChIJx83DYmhcXz4RZPavLUmExj0",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 48
+    },
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2889171,
+                "lng": 55.36272959999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29032122989272,
+                    "lng": 55.36407797989271
+                },
+                "southwest": {
+                    "lat": 25.28762157010728,
+                    "lng": 55.36137832010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "fd26519b3626609abbc97b9731eb6929127abb67",
+        "name": "Sigdi Restaurant - Al Nahda Dubai",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4608,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111449545838082297854/photos\">MOHAMMED NAHEEM B.S</a>"
+                ],
+                "photo_reference": "CmRaAAAA7_ia2oO0VFGO82da08ACk7t1vFFPH4oojNncy63F2Ew2djf1mjfS2t3Z1An0V8EEFXFhqlEDuMwZsQupTtj6xUAf7rR_eEtcM90aIDPvvxnVGbN0BgARtmEbeuhjw-4pEhCAbzmn9kg3xEtqJQl4KVbEGhROnKEvHsT1hHiiiGibTmivRAv1kw",
+                "width": 2240
+            }
+        ],
+        "place_id": "ChIJ63cuCGRcXz4RIg5piqEzAP4",
+        "plus_code": {
+            "compound_code": "79Q7+H3 Dubai",
+            "global_code": "7HQQ79Q7+H3"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ63cuCGRcXz4RIg5piqEzAP4",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 677
+    },
+    {
+        "formatted_address": "128 Al Nahda St - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3007795,
+                "lng": 55.3707092
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30210252989272,
+                    "lng": 55.37215467989272
+                },
+                "southwest": {
+                    "lat": 25.29940287010728,
+                    "lng": 55.36945502010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "821216f8ad33e2c6a5f85ee37a48167918b56aa8",
+        "name": "Najmat Pakistan Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3968,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102909862304196490221/photos\">Luciano Elgin</a>"
+                ],
+                "photo_reference": "CmRaAAAATbD3N7yJ4weBtrz8ivu3JZZ9SSJmFRl34NHCH-4sViIQn8Ki1_o9hVUHh_ze2p-iBGK0E6g8LOnQZfV05OL5G9ZDLXHDE8R8KZ9yK45ElJat20TtjyC8FlueBqEb-ANbEhB0UOybMTSiSay9rFPm4t1GGhSotYwLmv2ym78z5BqYBZSTNUZ7Gg",
+                "width": 2976
+            }
+        ],
+        "place_id": "ChIJUdqqRndcXz4R6gj_GyqwmEc",
+        "plus_code": {
+            "compound_code": "892C+87 Sharjah",
+            "global_code": "7HQQ892C+87"
+        },
+        "rating": 3.8,
+        "reference": "ChIJUdqqRndcXz4R6gj_GyqwmEc",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 71
+    },
+    {
+        "formatted_address": "Al Qantarah Restaurant - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.3034385,
+                "lng": 55.37904349999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30475082989272,
+                    "lng": 55.38035727989271
+                },
+                "southwest": {
+                    "lat": 25.30205117010728,
+                    "lng": 55.37765762010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "c86544df16c793809bde4dd757f0d1f83cc66a9f",
+        "name": "Al Qantarah Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112517585110155216444/photos\">mahmood husain</a>"
+                ],
+                "photo_reference": "CmRaAAAAEPtXPhSsHbDZ5-XB29PZqAqo_WM_eWLL6ypUrcyRwu4sBl8HYQGF0Hah6NmT3x8hp3uSjUwggzObbBYPm24hkhTicYMMSXFsprcjpkd9FMoYtRgW56G5ReqJYGyr43jQEhAdRrARVMFOUkpKNdNB9I4KGhRaOX-KBaHSSyMhsvM17d6lIjTpsA",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJY7QWlXRcXz4RbLLybUI6-Gs",
+        "plus_code": {
+            "compound_code": "893H+9J Sharjah",
+            "global_code": "7HQQ893H+9J"
+        },
+        "price_level": 1,
+        "rating": 3.6,
+        "reference": "ChIJY7QWlXRcXz4RbLLybUI6-Gs",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 651
+    },
+    {
+        "formatted_address": "15 C Street, Hor Al Anz East - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2826288,
+                "lng": 55.35153039999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28400752989272,
+                    "lng": 55.35291247989272
+                },
+                "southwest": {
+                    "lat": 25.28130787010727,
+                    "lng": 55.35021282010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "ee6df13df872848b01892a1e7101fbb3eade29ce",
+        "name": "Al Amoor Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112767163230580101726/photos\">Sohaib Anjum</a>"
+                ],
+                "photo_reference": "CmRaAAAA_tTIqpRErJKOKpok0Y8-HxJbY6lonTdDMaplBphQHjN1CQPV13qasotZLQrLDMN6hT32BEOKDiFxLwvzXpS4wSwIbuR37_zeQakDXh8miru2fwsrLKSc6hK2WmSYi4CLEhDHBXsOW7LtyBUvare6GoViGhRvv3z21BxyT2FCeRAQw2ZeEBmSQA",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJv-JLQoxcXz4RKkerfzlBK9s",
+        "plus_code": {
+            "compound_code": "79M2+3J Dubai",
+            "global_code": "7HQQ79M2+3J"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJv-JLQoxcXz4RKkerfzlBK9s",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 687
+    },
+    {
+        "formatted_address": "Behind Ansar Mall, Al Zarouni Building Shop No. 5 - Sharjah",
+        "geometry": {
+            "location": {
+                "lat": 25.301565,
+                "lng": 55.368106
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.30299917989272,
+                    "lng": 55.36940982989272
+                },
+                "southwest": {
+                    "lat": 25.30029952010728,
+                    "lng": 55.36671017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "ee7b58288f385d5148a9fdd8b42bf823e09abba8",
+        "name": "Delhi Nihari Restaurant - Al Nahda",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3264,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111534277974445318281/photos\">Shawn Mendonca</a>"
+                ],
+                "photo_reference": "CmRaAAAAs-rMp9t6c9YbC6kI2wlk_SaYpOP_ArPhtVF4kQ9PVXHCuT_WrHu4ZnLc_Qp2oz_KW34P3wq1CHd9PBGZsHtjojwDHvcu2SASl92a-ISPFiO6HCI9MPBrmxKDz8GWbO2UEhAxVqwF-xqh9TUR07tA0WsiGhThpoCD9AbJtblRXTsHKNZa2WcBvA",
+                "width": 2448
+            }
+        ],
+        "place_id": "ChIJhYfhNXFcXz4R2FhoPtozNjc",
+        "plus_code": {
+            "compound_code": "8929+J6 Sharjah",
+            "global_code": "7HQQ8929+J6"
+        },
+        "rating": 3.8,
+        "reference": "ChIJhYfhNXFcXz4R2FhoPtozNjc",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 467
+    },
+    {
+        "formatted_address": "Al Mamzar Building - #6B - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2840849,
+                "lng": 55.3513376
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28545892989272,
+                    "lng": 55.35266142989272
+                },
+                "southwest": {
+                    "lat": 25.28275927010727,
+                    "lng": 55.34996177010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "f4a431c60bf2da8fbe8ef7069efa215caa2f1a37",
+        "name": "Samakati",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 735,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102081387169361486244/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAR_DfwV2KOz0BbwlziUqOrzzGLN0zv-l9fXHXHkElD71GG3zsvViJaL9EMK2bKyO2BXBNRzDInqncV6qGfAHQUkwVQID2Xyu6ioXYMCuFOoDrLXZ2xtNGvb71B2i5SBlhEhDW-vdC4QftAMIIZiI5IyQGGhSvU3UzJ6Tqj-wsd3SHsry6-bO1HA",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJqVG-qn5dXz4RRJUJvZ9HqfM",
+        "plus_code": {
+            "compound_code": "79M2+JG Dubai",
+            "global_code": "7HQQ79M2+JG"
+        },
+        "rating": 4.3,
+        "reference": "ChIJqVG-qn5dXz4RRJUJvZ9HqfM",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7
+    },
+    {
+        "formatted_address": "G Floor,Wasl Building,19 A Street,Al Nahda - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2940507,
+                "lng": 55.3781945
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29537407989272,
+                    "lng": 55.37958852989272
+                },
+                "southwest": {
+                    "lat": 25.29267442010728,
+                    "lng": 55.37688887010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "fd0076b8665ac99100560d123d0d1eba6001a351",
+        "name": "Nahda Gardens Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 434,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105135389979518140169/photos\">حمدي ابو محمد</a>"
+                ],
+                "photo_reference": "CmRaAAAAIQuPFNq4p2-zL22xsArSIx_VkzRRJCAhJRHJV1D8d1ZnspI4_NXrgFiq7Vvf1Wz_xjfsQW9bAzqtCtk63cmDkqgUn-Ng4QgyZ96MIrsRrYw62s5dotbgw-kPUTkijV7WEhBJ2zsHquvwf6LhQxkjKcfiGhR95jjTtoEHr8WAnioHFxtO7QQ_Mg",
+                "width": 650
+            }
+        ],
+        "place_id": "ChIJ-X4J6WxcXz4RimDC5SigcOs",
+        "plus_code": {
+            "compound_code": "79VH+J7 Dubai",
+            "global_code": "7HQQ79VH+J7"
+        },
+        "price_level": 1,
+        "rating": 3.5,
+        "reference": "ChIJ-X4J6WxcXz4RimDC5SigcOs",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 83
+    },
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2933578,
+                "lng": 55.37930799999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29467362989272,
+                    "lng": 55.38063272989272
+                },
+                "southwest": {
+                    "lat": 25.29197397010727,
+                    "lng": 55.37793307010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "3ba5008f00c431e67cc93cfdee79546485024ed3",
+        "name": "Parkview Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1634,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105434297279917344862/photos\">Nirmal Perera</a>"
+                ],
+                "photo_reference": "CmRaAAAAfLmJ20Hgyp_R0hJDDPTBCFb2ayWnxMyNyTWteRxAwpfryM6SihLDUIz8LhfrMPhFeJz3aDwe--UKCoh2_O3t9GhXy7DnckYaD9os3BfkmJyhfWGBXDekYyx2scsEE-G0EhAnmzCYuqLpE1sfmqwSjHKIGhRjDA9mcR6kbhzY9ZZs2DiP3sdU_g",
+                "width": 3840
+            }
+        ],
+        "place_id": "ChIJR2P4wmxcXz4RHsA1unzG3xQ",
+        "plus_code": {
+            "compound_code": "79VH+8P Dubai",
+            "global_code": "7HQQ79VH+8P"
+        },
+        "price_level": 1,
+        "rating": 3.6,
+        "reference": "ChIJR2P4wmxcXz4RHsA1unzG3xQ",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 444
+    },
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2962658,
+                "lng": 55.3701595
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29782692989272,
+                    "lng": 55.37153687989272
+                },
+                "southwest": {
+                    "lat": 25.29512727010728,
+                    "lng": 55.36883722010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "13af60cdd7d78e0adcb0569d8858a61122838f4a",
+        "name": "Damietta Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2976,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111141075529870263130/photos\">محمد المؤمن</a>"
+                ],
+                "photo_reference": "CmRaAAAA91cQLhY1TuLJ19kT60jnCMAJ-TjgtGj66EjBNxMN1XPuaEzSe--L00W6Q-1CLWWKkP6-yz__qZCKHfMD99nYc7LbZONSu-nZ8qEXNa6pA4kZOgmhNJJSDcai5uNIXj0CEhD-SChQ7anB-d-9MxiGLErUGhTCF8JOOgbqzLbthE14cJVRR10QMA",
+                "width": 3968
+            }
+        ],
+        "place_id": "ChIJvx0CcXBcXz4RVHsIzS4o9Y4",
+        "plus_code": {
+            "compound_code": "79WC+G3 Dubai",
+            "global_code": "7HQQ79WC+G3"
+        },
+        "rating": 3.8,
+        "reference": "ChIJvx0CcXBcXz4RVHsIzS4o9Y4",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 30
+    },
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.283796,
+                "lng": 55.35117229999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28520692989272,
+                    "lng": 55.35245642989272
+                },
+                "southwest": {
+                    "lat": 25.28250727010728,
+                    "lng": 55.34975677010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "c94c3de9adde12f4ded3ae3bdd82717d48d25ccd",
+        "name": "Al Aumdah Restaurant مطعم العمده",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118070009733330047919/photos\">عبدالله العثماني</a>"
+                ],
+                "photo_reference": "CmRaAAAA2-3rh6j9X5DokO4p_bgYN3qCumVPBP4VDtDJf2Z9spHpAq2cuayfw6sTNJJCx81mUrUDrro5kFsoTq7FlU3hIZQrPiyEOpKcnOItp3SitioIli0bDg7TfWYpiLNS3OCVEhBQ_AXFVqfexgDthM_KnjAuGhSKP1lEKZ4XsqlxOaxHxXY4EBikLw",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJc7MwPYxcXz4R9nd5iRJBCco",
+        "plus_code": {
+            "compound_code": "79M2+GF Dubai",
+            "global_code": "7HQQ79M2+GF"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJc7MwPYxcXz4R9nd5iRJBCco",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1023
+    },
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.283192,
+                "lng": 55.354582
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28439872989272,
+                    "lng": 55.35577552989272
+                },
+                "southwest": {
+                    "lat": 25.28169907010728,
+                    "lng": 55.35307587010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "35db2a5d368d2a452da4885e962f7dc3680a2b3f",
+        "name": "Pars Iranian Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107926398967047430529/photos\">Nima Amanat</a>"
+                ],
+                "photo_reference": "CmRaAAAAXC8ycNLTbHQmSXgxRrVAOufoulWOcZMmPjp6gHo9lNmGXajMlq6E6RJ0RM0ppDc9WxuNcN2VfqEwMBbcFmlPs9PORHGFV0_UhZoIAz-qDDU8Y42r_f90646Ga8h12Cc0EhAlvJH8-lE1Sg70O4ZeHDEDGhRtHinQU1uqxtxHiuUNuH9q-JOkhQ",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJc8HRootcXz4RCYXcsVxPmdE",
+        "plus_code": {
+            "compound_code": "79M3+7R Dubai",
+            "global_code": "7HQQ79M3+7R"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJc8HRootcXz4RCYXcsVxPmdE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 62
+    },
+    {
+        "formatted_address": "28th St - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2802414,
+                "lng": 55.3532939
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28160222989272,
+                    "lng": 55.35463132989273
+                },
+                "southwest": {
+                    "lat": 25.27890257010727,
+                    "lng": 55.35193167010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "4ce85ca548ce9f532cf8b30a48955bc54c00c81b",
+        "name": "Zayed Al Amoor Seafood Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117678452301975861681/photos\">Francesca Gomme</a>"
+                ],
+                "photo_reference": "CmRaAAAAzlzK7d_W5lWtvx6DDobXvRE5m30KRygA88RzGCX1-QljSAExY0dc7ZtyhYvFIRdc7R0_-buFYNMQsSIsrKzugHQFX5QY2BKIPmpflqdpBAoTN_BiC8vqPMZRJMUExKWLEhAPff33chDG7h501yRI7qbWGhS2JbjpiEJUw9U5Q4jcfU7f10mZtw",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJQYvRZotcXz4RekIajEJT9VY",
+        "plus_code": {
+            "compound_code": "79J3+38 Dubai",
+            "global_code": "7HQQ79J3+38"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJQYvRZotcXz4RekIajEJT9VY",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 76
+    },
+    {
+        "formatted_address": "Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.2884014,
+                "lng": 55.3684125
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.28974092989272,
+                    "lng": 55.36970697989272
+                },
+                "southwest": {
+                    "lat": 25.28704127010728,
+                    "lng": 55.36700732010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "bf37a4c738d7c3b94c3a9e6c9ecba1e0431f1fe7",
+        "name": "It's Malabar restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116566862550664304148/photos\">Rathesh Pillai</a>"
+                ],
+                "photo_reference": "CmRaAAAAiVAunGVSd04oiLhzZiZNACXzhOOoBwP_TEW-IqOI8XYY2vh85YdMpdbMGkU7tiSbPOMIwL_Z7ZuMeQzRsPblcenWjDdmTRemZUbXEodEK7rMgqbtnCEdS9bvnXun3nadEhAsgszZkCkBtWWjYd-64aPvGhT6UYtBCaxi5_Md2jIsdvZxNr8fLQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ2br6DGZcXz4RAW41y-axWWE",
+        "plus_code": {
+            "compound_code": "79Q9+99 Dubai",
+            "global_code": "7HQQ79Q9+99"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJ2br6DGZcXz4RAW41y-axWWE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 765
+    },
+    {
+        "formatted_address": "G Floor,Burj Al Noor,13th Street,Al Nahda 1 - Dubai",
+        "geometry": {
+            "location": {
+                "lat": 25.29701,
+                "lng": 55.364892
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.29851682989272,
+                    "lng": 55.36626037989272
+                },
+                "southwest": {
+                    "lat": 25.29581717010728,
+                    "lng": 55.36356072010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "676f2230d7a23fc65703d2e3951081f2d77fa3d3",
+        "name": "Green Leaf International Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103640131366458877375/photos\">zarmin khan</a>"
+                ],
+                "photo_reference": "CmRaAAAAETugHQuAjaoEs_qqm56PL2h4-brlqcjlu4Q7uohLVm8rQqe-NjHnLPJ7w3Z4c53SWSLRYHMmSe5eEUKCsf_NRvRvw-1iN6FGwaGDTo1P1-HzrQ7ot7thXl1cP94JecgMEhCbiWVDE9nnPaXzHh0QJ16pGhQFylwm2830g3h8No69dt8OkVyaLw",
+                "width": 1960
+            }
+        ],
+        "place_id": "ChIJ6z1G7XtcXz4R0dlPhE-XGcA",
+        "plus_code": {
+            "compound_code": "79W7+RX Dubai",
+            "global_code": "7HQQ79W7+RX"
+        },
+        "price_level": 1,
+        "rating": 3.7,
+        "reference": "ChIJ6z1G7XtcXz4R0dlPhE-XGcA",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 145
+    }
+]

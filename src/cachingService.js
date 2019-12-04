@@ -1,13 +1,14 @@
 const fs = require('fs').promises;
-const cacheFolderPath = `${__dirname}/mapDataCache`
-const cacheFilePath = (cacheKey) => `${cacheFolderPath}/${cacheKey}.json`;
-exports.setCache = async (cacheKey, data) => {
-    await fs.writeFile(cacheFilePath(cacheKey),
+const defaultFolder = `mapDataCache`
+const cacheFilePath = (cacheKey, folderName) => `${__dirname}/${folderName || defaultFolder}/${cacheKey}.json`;
+exports.setCache = async (cacheKey, data, folderName) => {
+    const cacheFile = cacheFilePath(cacheKey, folderName);
+    await fs.writeFile(cacheFile,
         JSON.stringify(data, null, 4)
     );
 }
-exports.getCache = async (cacheKey) => {
-    const cacheFile = cacheFilePath(cacheKey);
+exports.getCache = async (cacheKey, folderName) => {
+    const cacheFile = cacheFilePath(cacheKey, folderName);
     const storageExists = await fs.access(cacheFile)
         .then(() => true).catch(() => false);
     if (storageExists) {

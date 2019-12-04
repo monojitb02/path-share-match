@@ -2,11 +2,12 @@
     "geocoded_waypoints": [
         {
             "geocoder_status": "OK",
-            "place_id": "ChIJL8S96FpcXz4RtCFoSTHY3Zc",
+            "place_id": "ChIJXRUHtoBbXz4RTzTDls5OfQ8",
             "types": [
                 "establishment",
-                "lodging",
-                "point_of_interest"
+                "food",
+                "point_of_interest",
+                "restaurant"
             ]
         },
         {
@@ -23,8 +24,8 @@
         {
             "bounds": {
                 "northeast": {
-                    "lat": 25.2813094,
-                    "lng": 55.3695512
+                    "lat": 25.3310404,
+                    "lng": 55.38339389999999
                 },
                 "southwest": {
                     "lat": 25.2476573,
@@ -35,188 +36,236 @@
             "legs": [
                 {
                     "distance": {
-                        "text": "7.2 km",
-                        "value": 7200
+                        "text": "12.9 km",
+                        "value": 12889
                     },
                     "duration": {
-                        "text": "10 mins",
-                        "value": 598
+                        "text": "15 mins",
+                        "value": 912
                     },
                     "end_address": "Dubai International Airport (DXB) - Dubai - United Arab Emirates",
                     "end_location": {
                         "lat": 25.2476573,
                         "lng": 55.3521753
                     },
-                    "start_address": "Al Bustan Centre, Al Nahda Road, Al Qusais 1 - Dubai - United Arab Emirates",
+                    "start_address": "Garden Tower - Sharjah - United Arab Emirates",
                     "start_location": {
-                        "lat": 25.2756181,
-                        "lng": 55.36883359999999
+                        "lat": 25.3306594,
+                        "lng": 55.37343740000001
                     },
                     "steps": [
                         {
                             "distance": {
-                                "text": "87 m",
-                                "value": 87
+                                "text": "0.2 km",
+                                "value": 174
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 18
+                                "value": 31
                             },
                             "end_location": {
-                                "lat": 25.2751893,
-                                "lng": 55.3695512
+                                "lat": 25.330115,
+                                "lng": 55.3750154
                             },
-                            "html_instructions": "Head <b>southeast</b> on <b>1 A St</b>",
+                            "html_instructions": "Head <b>east</b> on <b><span dir=\"rtl\">Arab Club Street</span>‎</b>",
                             "polyline": {
-                                "points": "ssgyCef}pIv@{ATe@FM"
+                                "points": "skryC_c~pIRu@f@wA^}@LYFQ@MAMEg@"
                             },
                             "start_location": {
-                                "lat": 25.2756181,
-                                "lng": 55.36883359999999
+                                "lat": 25.3306594,
+                                "lng": 55.37343740000001
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "0.3 km",
-                                "value": 261
-                            },
-                            "duration": {
-                                "text": "1 min",
-                                "value": 62
-                            },
-                            "end_location": {
-                                "lat": 25.2742767,
-                                "lng": 55.3678891
-                            },
-                            "html_instructions": "Turn <b>right</b>",
-                            "maneuver": "turn-right",
-                            "polyline": {
-                                "points": "}pgyCuj}pI|CjBjBnAGJWl@[j@Wh@"
-                            },
-                            "start_location": {
-                                "lat": 25.2751893,
-                                "lng": 55.3695512
-                            },
-                            "travel_mode": "DRIVING"
-                        },
-                        {
-                            "distance": {
-                                "text": "39 m",
-                                "value": 39
+                                "text": "52 m",
+                                "value": 52
                             },
                             "duration": {
                                 "text": "1 min",
                                 "value": 16
                             },
                             "end_location": {
-                                "lat": 25.2742382,
-                                "lng": 55.3675055
+                                "lat": 25.3297091,
+                                "lng": 55.3752691
                             },
-                            "html_instructions": "Turn <b>left</b> toward <b>Al Nahda St</b>/<wbr/><b>D93</b>",
-                            "maneuver": "turn-left",
+                            "html_instructions": "Turn <b>right</b>",
+                            "maneuver": "turn-right",
                             "polyline": {
-                                "points": "gkgyCi`}pI@TDt@"
+                                "points": "ghryC{l~pIVGNGJI\\W"
                             },
                             "start_location": {
-                                "lat": 25.2742767,
-                                "lng": 55.3678891
+                                "lat": 25.330115,
+                                "lng": 55.3750154
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "1.4 km",
-                                "value": 1370
+                                "text": "76 m",
+                                "value": 76
                             },
                             "duration": {
-                                "text": "3 mins",
-                                "value": 179
+                                "text": "1 min",
+                                "value": 20
                             },
                             "end_location": {
-                                "lat": 25.2809583,
-                                "lng": 55.3560947
+                                "lat": 25.3301051,
+                                "lng": 55.3758828
                             },
-                            "html_instructions": "Turn <b>right</b> onto <b>Al Nahda St</b>/<wbr/><b>D93</b>",
-                            "maneuver": "turn-right",
+                            "html_instructions": "Turn <b>left</b>",
+                            "maneuver": "turn-left",
                             "polyline": {
-                                "points": "_kgyC}}|pIa@v@_ArBi@fAGN_BdDk@hAi@hAeBnDe@z@}B|Ey@dBm@rAq@xAWj@e@bAMXoDpHa@z@y@xAA@mAbCe@bAi@|@Yb@]f@a@h@"
+                                "points": "ueryCmn~pIO[GMa@k@IKKW"
                             },
                             "start_location": {
-                                "lat": 25.2742382,
-                                "lng": 55.3675055
+                                "lat": 25.3297091,
+                                "lng": 55.3752691
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "76 m",
+                                "value": 76
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 16
+                            },
+                            "end_location": {
+                                "lat": 25.3307552,
+                                "lng": 55.3756426
+                            },
+                            "html_instructions": "Turn <b>left</b> toward <b>Corniche St</b>/<wbr/><b>S110</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "ehryCgr~pIc@J}Ab@"
+                            },
+                            "start_location": {
+                                "lat": 25.3301051,
+                                "lng": 55.3758828
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "89 m",
+                                "value": 89
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 20
+                            },
+                            "end_location": {
+                                "lat": 25.3310404,
+                                "lng": 55.3764748
+                            },
+                            "html_instructions": "Turn <b>right</b> toward <b>Corniche St</b>/<wbr/><b>S110</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "glryCwp~pIw@eD"
+                            },
+                            "start_location": {
+                                "lat": 25.3307552,
+                                "lng": 55.3756426
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.1 km",
+                                "value": 1054
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 93
+                            },
+                            "end_location": {
+                                "lat": 25.324182,
+                                "lng": 55.3831204
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Corniche St</b>/<wbr/><b>S110</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "_nryC}u~pI~@U|A]hBk@nAe@b@Sb@UNMHGPOx@o@^[XWp@o@rAqANO`B}Af@g@^_@`BaBRSvBkBJK`@a@HIJKJKLOJO`@o@N_@Na@Pk@BOHe@@GN{@J_ABU"
+                            },
+                            "start_location": {
+                                "lat": 25.3310404,
+                                "lng": 55.3764748
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
                                 "text": "0.6 km",
-                                "value": 617
+                                "value": 628
+                            },
+                            "duration": {
+                                "text": "3 mins",
+                                "value": 154
+                            },
+                            "end_location": {
+                                "lat": 25.3197971,
+                                "lng": 55.3797812
+                            },
+                            "html_instructions": "Slight <b>right</b> onto <b>Entifadah Rd</b>",
+                            "maneuver": "turn-slight-right",
+                            "polyline": {
+                                "points": "ccqyCo_`qIPUFIHELGNID@J@D@B@NN`Ax@hAdAPPbA~@\\XpBjBv@t@fBbBLJFDb@^f@b@r@n@ZRBBTN^Z"
+                            },
+                            "start_location": {
+                                "lat": 25.324182,
+                                "lng": 55.3831204
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 531
                             },
                             "duration": {
                                 "text": "1 min",
                                 "value": 68
                             },
                             "end_location": {
-                                "lat": 25.2777473,
-                                "lng": 55.3517508
+                                "lat": 25.3152076,
+                                "lng": 55.380556
                             },
-                            "html_instructions": "Turn <b>left</b> onto the ramp to <b>Al Ittihad Rd</b>/<wbr/><b>Dubai - Sharjah Rd</b>/<wbr/><b>E11</b>",
-                            "maneuver": "ramp-left",
+                            "html_instructions": "Turn <b>left</b> onto <b>Al Khan St</b>/<wbr/><b>S108</b>",
+                            "maneuver": "turn-left",
                             "polyline": {
-                                "points": "_uhyCqvzpIQRQRa@b@`@b@|@`AfBzBfB|B|CfD~ClD|@z@Zd@"
+                                "points": "wgpyCsj_qIFLJRNCbAQpDo@x@O`AOh@ItAUDAnB[XGn@IFA`CAt@C"
                             },
                             "start_location": {
-                                "lat": 25.2809583,
-                                "lng": 55.3560947
+                                "lat": 25.3197971,
+                                "lng": 55.3797812
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "0.2 km",
-                                "value": 167
+                                "text": "6.9 km",
+                                "value": 6888
                             },
                             "duration": {
-                                "text": "1 min",
-                                "value": 11
-                            },
-                            "end_location": {
-                                "lat": 25.2766665,
-                                "lng": 55.3505949
-                            },
-                            "html_instructions": "Keep <b>left</b> to continue toward <b>Al Ittihad Rd</b>/<wbr/><b>Dubai - Sharjah Rd</b>/<wbr/><b>E11</b>",
-                            "maneuver": "keep-left",
-                            "polyline": {
-                                "points": "}`hyCm{ypIbAfArAvA~@fA"
-                            },
-                            "start_location": {
-                                "lat": 25.2777473,
-                                "lng": 55.3517508
-                            },
-                            "travel_mode": "DRIVING"
-                        },
-                        {
-                            "distance": {
-                                "text": "1.3 km",
-                                "value": 1338
-                            },
-                            "duration": {
-                                "text": "1 min",
-                                "value": 67
+                                "text": "5 mins",
+                                "value": 317
                             },
                             "end_location": {
                                 "lat": 25.2680719,
                                 "lng": 55.341311
                             },
-                            "html_instructions": "Keep <b>left</b>, follow signs for <b>DXB Airport Terminal 1</b>/<wbr/><b>DXB Airport Terminal 3</b>/<wbr/><b>Jebel Ali</b>/<wbr/><b>E11</b>/<wbr/><b>Abu Dhabi</b> and merge onto <b>Al Ittihad Rd</b>/<wbr/><b>Dubai - Sharjah Rd</b>/<wbr/><b>E11</b>",
-                            "maneuver": "keep-left",
+                            "html_instructions": "Slight <b>right</b> to merge onto <b>Al Ittihad St</b>/<wbr/><b>Al Wahda St</b>/<wbr/><b>Dubai - Sharjah Rd</b>/<wbr/><b>E11</b>/<wbr/><b>S113</b> toward <b>Dubai</b>/<wbr/><b>Abu Dhabi</b>/<wbr/><b>Expo Centre Sharjah</b><div style=\"font-size:0.9em\">Continue to follow Al Ittihad St/<wbr/>Dubai - Sharjah Rd/<wbr/>E11</div><div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "ramp-right",
                             "polyline": {
-                                "points": "ezgyCetypIb@RVTfBnB`CpC`BlBn@r@lAxALL|@bAn@n@l@b@|ApBnBxBpCbDdDfDpCbDt@v@pDhEfCrC"
+                                "points": "akoyCoo_qIDH^DXDTDXFJDLDRFFB`@NXLLFTHVHHBLBH@J?F?FAHAJELGFEJGPK@?NERCNAR?TBLDNFNJJHPJ^TZJjCdCLL`Az@j@f@rEbEfB`BzBnBbB`BdB~An@t@tA~Ap@t@j@~@T`@dAzAj@dARb@l@tAlEdLXv@Nb@`DbJjCvHd@lAXn@P^h@dAl@hAv@rA@@d@r@n@~@p@~@tBrBbA~@dDjCjAr@dAf@hAf@fBl@rA\\tDr@nC^pCX|Fl@jFh@vEh@dCV~Gt@p@HrD^hALXDfBRb@FjC`@hCh@xAd@jBr@hAb@lAp@~@h@t@f@j@d@l@h@bBfBbBfB~@fA`AfAjBzB~@dAPR\\`@~@`AfBpBtBbCVXbAhAn@t@~CpDfCvCNPnAvAz@|@x@|@v@|@|BnCVZp@x@rAdB|ApBnBxBpCbDdDfDpCbDt@v@pDhEfCrC"
                             },
                             "start_location": {
-                                "lat": 25.2766665,
-                                "lng": 55.3505949
+                                "lat": 25.3152076,
+                                "lng": 55.380556
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -298,9 +347,9 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ssgyCef}pIlAaCFM|CjBjBnAGJs@xAWh@@TDt@a@v@iBzDgBtDaF~JwGpN}@nB}DjIkDzGe@bAi@|@w@jAgBtB~AdBnExF|HtI|@z@Zd@vC~C~@fAb@R~BdCbF~FhE~En@n@l@b@|ApBnBxBpCbDdDfDfEzExH|If@fArBlCpCjD|EfGfBpBxApAnAn@t@ZhAZvAL~B?dBE|Ew@~Ce@jBOzBUjAE~BF~@FbBTt@Hz@G\\M^UZ_@z@cBhC}Ft@_B^g@fCcGtE}JjHaPrN{ZxEkK"
+                "points": "skryC_c~pIRu@f@wAl@wAH_@Gu@f@Oh@a@Wi@k@w@KWc@J}Ab@w@eD|Cs@hBk@nAe@fAi@XUdCsBtLmLnDcDp@w@p@oA`@mA^yBNuAX_@VMTGPBRP`Ax@hAdAtApAnH~G`BtAnAbAXR^ZFLJRNCtFaAzB_@tF}@hAQhCCt@CDHx@Jn@LXJvAh@dA^j@Dj@Qf@Yb@Ib@Ab@H^R\\Tz@`@fGvFzHdHzBnBbB`BtCtCfCtC`A`BdAzAj@dA`AxBfF|MbJlWbC~EnChEp@~@tBrBbA~@dDjCjAr@dAf@hAf@fBl@rA\\tDr@`Hx@fYxCnQlB`CXnDh@hCh@xAd@tDvAlCzA`BlApCpCbDnDlDbEpAxAzHxIzAbBnEfFbH~HfGfHdC~C|ApBnBxBpCbDdDfDfEzExH|If@fArBlCpCjD|EfGfBpBxApAnAn@t@ZhAZvAL~B?dBE|Ew@~Ce@jBOzBUjAE~BF~@FbBTt@Hz@G\\M^UZ_@z@cBhC}Ft@_B^g@fCcGtE}JjHaPrN{ZxEkK"
             },
-            "summary": "Airport Rd/D89",
+            "summary": "Al Ittihad St/Dubai - Sharjah Rd/E11",
             "warnings": [],
             "waypoint_order": []
         }
