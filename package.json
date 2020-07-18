@@ -18,7 +18,7 @@
   "dependencies": {
     "@google/maps": "^1.0.2",
     "dotenv": "^8.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "text-table": "^0.2.0"
   }
 }
